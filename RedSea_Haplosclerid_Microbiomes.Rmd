@@ -41,7 +41,11 @@ if(!requireNamespace("dada2", quietly = TRUE)){
 
 ## Load the clean reads
 
-Samples "GW3237" "GW3325" "GW3404" "GW3416" "GW3494" "GW3580" "GW4166" "GW4251" "GW5875" "GW6059" "GW6104" "GW6140" "GW6158" "GW6196" were discarded due to low read counts (<5000).
+Samples "GW3237", "GW3325", "GW3404", "GW3416", "GW3494", "GW3580", "GW4166", "GW4251", "GW5875", "GW6059", "GW6104", "GW6140", "GW6158", and "GW6196" were discarded due to low read counts (<5000).
+
+Samples "GW3524", "GW4232", "GW5899", and "GW6180" were discarded due to missing UCE data.
+
+
 
 ```{r load reads}
 
@@ -64,8 +68,8 @@ plotQualityProfile(fnRs[1:2])
 ##  Place filtered files in filtered/ subdirectory
 ```{r filter reads}
 
-filtFs <- file.path(path, "filtered", paste0(sample.names, "_F_dada2.clean.fastq.gz"))
-filtRs <- file.path(path, "filtered", paste0(sample.names, "_R_dada2.clean.fastq.gz"))
+filtFs <- file.path(path, "Dada2_Filtered", paste0(sample.names, "_F_dada2.clean.fastq.gz"))
+filtRs <- file.path(path, "Dada2_Filtered", paste0(sample.names, "_R_dada2.clean.fastq.gz"))
 names(filtFs) <- sample.names
 names(filtRs) <- sample.names
 
