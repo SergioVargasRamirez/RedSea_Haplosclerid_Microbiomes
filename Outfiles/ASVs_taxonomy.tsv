@@ -47,7 +47,7 @@
 >ASV_46	Bacteria	Chloroflexi	TK17	NA	NA	NA	NA
 >ASV_47	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	NA
 >ASV_48	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
->ASV_49	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_49	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
 >ASV_50	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_51	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_52	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
@@ -153,9 +153,9 @@
 >ASV_152	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_153	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_154	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	NA	NA
->ASV_155	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	Parvibaculaceae	NA	NA
+>ASV_155	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_156	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
->ASV_157	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_157	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_158	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
 >ASV_159	Bacteria	Chloroflexi	TK10	NA	NA	NA	NA
 >ASV_160	Bacteria	Entotheonellaeota	Entotheonellia	Entotheonellales	Entotheonellaceae	NA	NA
@@ -164,7 +164,7 @@
 >ASV_163	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Salinispira	NA
 >ASV_164	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_165	Bacteria	Patescibacteria	Gracilibacteria	NA	NA	NA	NA
->ASV_166	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
+>ASV_166	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_167	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_168	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_169	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
@@ -250,7 +250,7 @@
 >ASV_249	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_250	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	Psychrobium	NA
 >ASV_251	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_252	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	Arboricoccus	NA
+>ASV_252	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_253	Bacteria	Gemmatimonadota	PAUC43f marine benthic group	NA	NA	NA	NA
 >ASV_254	Bacteria	Proteobacteria	Gammaproteobacteria	HOC36	NA	NA	NA
 >ASV_255	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
@@ -352,7 +352,7 @@
 >ASV_351	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	NA	NA
 >ASV_352	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_353	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	Marinobacterium	stanieri
->ASV_354	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_354	Bacteria	Proteobacteria	Gammaproteobacteria	Piscirickettsiales	Piscirickettsiaceae	Candidatus Endoecteinascidia	NA
 >ASV_355	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	NA
 >ASV_356	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
 >ASV_357	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
@@ -403,7 +403,7 @@
 >ASV_402	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	NA	NA
 >ASV_403	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
 >ASV_404	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Tepidimonas	ignava
->ASV_405	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	MBAE14	NA	NA
+>ASV_405	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_406	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_407	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	Shewanella	NA
 >ASV_408	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	Pseudoalteromonas	ruthenica
@@ -556,7 +556,7 @@
 >ASV_555	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	Shewanella	NA
 >ASV_556	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	NA	NA	NA
 >ASV_557	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	NA
->ASV_558	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_558	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_559	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
 >ASV_560	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_561	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
@@ -575,7 +575,7 @@
 >ASV_574	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_575	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	CL500-3	NA
 >ASV_576	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
->ASV_577	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
+>ASV_577	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_578	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_579	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_580	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	NA
@@ -588,7 +588,7 @@
 >ASV_587	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	NA	NA
 >ASV_588	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_589	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Vibrio	NA
->ASV_590	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_590	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_591	Archaea	Crenarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	NA	NA
 >ASV_592	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
 >ASV_593	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
@@ -630,13 +630,13 @@
 >ASV_629	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group III	NA	NA	NA
 >ASV_630	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	NA	NA
 >ASV_631	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	NA	NA	NA	NA
->ASV_632	Bacteria	Chloroflexi	TK10	NA	NA	NA	NA
+>ASV_632	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
 >ASV_633	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_634	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	NA
 >ASV_635	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas	NA
 >ASV_636	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Propionigenium	NA
 >ASV_637	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Salinispira	NA
->ASV_638	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_638	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	NA	NA
 >ASV_639	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_640	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_641	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Salinispira	NA
@@ -657,7 +657,7 @@
 >ASV_656	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_657	Bacteria	Proteobacteria	Gammaproteobacteria	HOC36	NA	NA	NA
 >ASV_658	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Cenarchaeum	NA
->ASV_659	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Limnobacter	NA
+>ASV_659	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	NA	NA
 >ASV_660	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_661	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_662	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -683,7 +683,7 @@
 >ASV_682	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	NA
 >ASV_683	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Thioglobaceae	JL-ETNP-Z34	NA
 >ASV_684	Bacteria	Nitrospinota	P9X2b3D02	NA	NA	NA	NA
->ASV_685	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
+>ASV_685	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_686	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
 >ASV_687	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_688	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	NA	NA	NA
@@ -742,13 +742,13 @@
 >ASV_741	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	NA	NA	NA	NA
 >ASV_742	Bacteria	Acidobacteriota	Acidobacteriae	PAUC26f	NA	NA	NA
 >ASV_743	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
->ASV_744	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_744	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_745	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_746	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudohongiellaceae	Pseudohongiella	NA
 >ASV_747	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_748	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	NA	NA
 >ASV_749	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
->ASV_750	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
+>ASV_750	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_751	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_752	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	Thalassolituus	NA
 >ASV_753	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
@@ -829,7 +829,7 @@
 >ASV_828	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_829	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halomonadaceae	Halomonas	NA
 >ASV_830	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	NA	NA
->ASV_831	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_831	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudooceanicola	nitratireducens
 >ASV_832	Bacteria	Proteobacteria	Gammaproteobacteria	JTB23	NA	NA	NA
 >ASV_833	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_834	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
@@ -928,7 +928,7 @@
 >ASV_927	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_928	Bacteria	Cyanobacteria	Cyanobacteriia	Thermosynechococcales	Acaryochloridaceae	Acaryochloris MBIC11017	NA
 >ASV_929	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_930	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
+>ASV_930	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_931	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_932	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	NA
 >ASV_933	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Tistlia	NA
@@ -1037,7 +1037,7 @@
 >ASV_1036	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	NA
 >ASV_1037	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_1038	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_1039	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_1039	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_1040	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_1041	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_1042	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	[Synechococcus] spongiarum group	NA
@@ -1074,7 +1074,7 @@
 >ASV_1073	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1074	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	NA	NA	NA
 >ASV_1075	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
->ASV_1076	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanobacterium	NA
+>ASV_1076	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_1077	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_1078	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Fulvivirga	NA
 >ASV_1079	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
@@ -1090,7 +1090,7 @@
 >ASV_1089	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	NA
 >ASV_1090	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_1091	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_1092	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_1092	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marinibacterium	NA
 >ASV_1093	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
 >ASV_1094	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	Arenicella	NA
 >ASV_1095	Bacteria	PAUC34f	NA	NA	NA	NA	NA
@@ -1122,7 +1122,7 @@
 >ASV_1121	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	NA
 >ASV_1122	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_1123	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Photobacterium	NA
->ASV_1124	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	NA	NA
+>ASV_1124	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	Profundimonas	NA
 >ASV_1125	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Actibacterium	NA
 >ASV_1126	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Phycisphaera	NA
 >ASV_1127	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
@@ -1172,7 +1172,7 @@
 >ASV_1171	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Halarcobacter	bivalviorum
 >ASV_1172	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1173	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	Balneola	NA
->ASV_1174	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA
+>ASV_1174	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Tepidicella	NA
 >ASV_1175	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_1176	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_1177	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
@@ -1228,7 +1228,7 @@
 >ASV_1227	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_1228	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_1229	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Terasakiellaceae	NA	NA
->ASV_1230	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_1230	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Kangiellaceae	NA	NA
 >ASV_1231	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1232	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	Neptunomonas	NA
 >ASV_1233	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
@@ -1285,7 +1285,7 @@
 >ASV_1284	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_1285	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_1286	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	Parvibaculaceae	NA	NA
->ASV_1287	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
+>ASV_1287	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_1288	Bacteria	Gemmatimonadota	PAUC43f marine benthic group	NA	NA	NA	NA
 >ASV_1289	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
 >ASV_1290	Bacteria	Proteobacteria	Gammaproteobacteria	JTB23	NA	NA	NA
@@ -1305,7 +1305,7 @@
 >ASV_1304	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_1305	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_1306	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_1307	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	NA	NA
+>ASV_1307	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Malaciobacter	NA
 >ASV_1308	Bacteria	Chloroflexi	TK17	NA	NA	NA	NA
 >ASV_1309	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	NA
 >ASV_1310	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -1381,8 +1381,8 @@
 >ASV_1380	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Photobacterium	damselae
 >ASV_1381	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_1382	Bacteria	PAUC34f	NA	NA	NA	NA	NA
->ASV_1383	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
->ASV_1384	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Alteromonadaceae	Alteromonas	NA
+>ASV_1383	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_1384	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Alteromonadaceae	NA	NA
 >ASV_1385	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	Amphritea	spongicola
 >ASV_1386	Bacteria	Cyanobacteria	Cyanobacteriia	Eurycoccales	Eurycoccales Incertae Sedis	Synechococcus PCC-7336	NA
 >ASV_1387	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albidovulum	NA
@@ -1424,7 +1424,7 @@
 >ASV_1423	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Halioglobus	NA
 >ASV_1424	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Vibrio	NA
 >ASV_1425	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_1426	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	NA	NA
+>ASV_1426	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
 >ASV_1427	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
 >ASV_1428	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_1429	Bacteria	Entotheonellaeota	Entotheonellia	Entotheonellales	Entotheonellaceae	Candidatus Entotheonella	NA
@@ -1462,7 +1462,7 @@
 >ASV_1461	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_1462	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_1463	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Psychrilyobacter	NA
->ASV_1464	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	NA	NA
+>ASV_1464	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_1465	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
 >ASV_1466	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_1467	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	NA	NA	NA
@@ -1474,7 +1474,7 @@
 >ASV_1473	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_1474	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_1475	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_1476	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	Synechococcus CC9902	NA
+>ASV_1476	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	NA	NA
 >ASV_1477	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_1478	Bacteria	Desulfobacterota	Desulfobacteria	Desulfobacterales	Desulfolunaceae	Desulfoluna	NA
 >ASV_1479	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
@@ -1491,13 +1491,13 @@
 >ASV_1490	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_1491	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	AqS1	NA
 >ASV_1492	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
->ASV_1493	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_1493	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_1494	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1495	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_1496	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_1497	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1498	Bacteria	Cyanobacteria	Cyanobacteriia	Thermosynechococcales	Acaryochloridaceae	Acaryochloris MBIC11017	marina
->ASV_1499	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
+>ASV_1499	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_1500	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_1501	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1502	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
@@ -1568,7 +1568,7 @@
 >ASV_1567	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_1568	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albidovulum	NA
 >ASV_1569	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
->ASV_1570	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_1570	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_1571	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_1572	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_1573	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
@@ -1653,19 +1653,19 @@
 >ASV_1652	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	NA
 >ASV_1653	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	NA
 >ASV_1654	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
->ASV_1655	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_1655	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_1656	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
 >ASV_1657	Bacteria	Chloroflexi	TK10	NA	NA	NA	NA
 >ASV_1658	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1659	Bacteria	Deinococcota	Deinococci	Deinococcales	Trueperaceae	Truepera	NA
 >ASV_1660	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_1661	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_1661	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_1662	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_1663	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_1664	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_1665	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
 >ASV_1666	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
->ASV_1667	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Vibrio	NA
+>ASV_1667	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	NA	NA
 >ASV_1668	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	NA	NA
 >ASV_1669	Bacteria	PAUC34f	NA	NA	NA	NA	NA
 >ASV_1670	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aquimarina	NA
@@ -1755,7 +1755,7 @@
 >ASV_1754	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	NA
 >ASV_1755	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albidovulum	NA
 >ASV_1756	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_1757	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
+>ASV_1757	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_1758	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	Puniceispirillales Incertae Sedis	Constrictibacter	NA
 >ASV_1759	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_1760	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Fabibacter	misakiensis
@@ -1881,7 +1881,7 @@
 >ASV_1880	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_1881	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	NA	NA
 >ASV_1882	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
->ASV_1883	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_1883	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
 >ASV_1884	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	NA	NA
 >ASV_1885	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_1886	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -1933,11 +1933,11 @@
 >ASV_1932	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_1933	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Mesoflavibacter	NA
 >ASV_1934	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
->ASV_1935	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
+>ASV_1935	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_1936	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Fusibacteraceae	Fusibacter	NA
 >ASV_1937	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_1938	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Vicingus	NA
->ASV_1939	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_1939	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_1940	Bacteria	Cyanobacteria	Cyanobacteriia	Limnotrichales	Limnotrichaceae	Limnothrix	NA
 >ASV_1941	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NA
 >ASV_1942	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
@@ -1953,7 +1953,7 @@
 >ASV_1952	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_1953	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Microcystaceae	NA	NA
 >ASV_1954	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	NA	NA
->ASV_1955	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	NA	NA
+>ASV_1955	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_1956	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	NA
 >ASV_1957	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	NA	NA	NA
 >ASV_1958	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NA
@@ -1991,7 +1991,7 @@
 >ASV_1990	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_1991	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_1992	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	NA	NA	NA
->ASV_1993	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_1993	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_1994	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_1995	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_1996	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
@@ -2032,7 +2032,7 @@
 >ASV_2031	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_2032	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Pseudoteredinibacter	isoporae
 >ASV_2033	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	NA	NA
->ASV_2034	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_2034	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_2035	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_2036	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2037	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	Arboricoccus	NA
@@ -2062,10 +2062,10 @@
 >ASV_2061	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	NA	NA	NA
 >ASV_2062	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_2063	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Ovatusbacter	NA
->ASV_2064	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA
+>ASV_2064	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Tepidimonas	NA
 >ASV_2065	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	NA	NA
 >ASV_2066	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	AqS1	NA
->ASV_2067	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	MWH-CFBk5	NA	NA
+>ASV_2067	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_2068	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	Litoricola	NA
 >ASV_2069	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_2070	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
@@ -2165,7 +2165,7 @@
 >ASV_2164	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	Candidatus Puniceispirillum	NA
 >ASV_2165	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_2166	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
->ASV_2167	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_2167	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_2168	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	NA	NA
 >ASV_2169	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_2170	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
@@ -2246,8 +2246,8 @@
 >ASV_2245	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Luteibaculum	NA
 >ASV_2246	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	NA
 >ASV_2247	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
->ASV_2248	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
->ASV_2249	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
+>ASV_2248	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_2249	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
 >ASV_2250	Bacteria	Chloroflexi	TK17	NA	NA	NA	NA
 >ASV_2251	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	NA
 >ASV_2252	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	NA	NA
@@ -2286,7 +2286,7 @@
 >ASV_2285	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_2286	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2287	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
->ASV_2288	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
+>ASV_2288	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	NA	NA
 >ASV_2289	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	NA	NA
 >ASV_2290	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Tenacibaculum	xiamenense
 >ASV_2291	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -2301,7 +2301,7 @@
 >ASV_2300	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_2301	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albidovulum	NA
 >ASV_2302	Bacteria	Poribacteria	NA	NA	NA	NA	NA
->ASV_2303	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_2303	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_2304	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_2305	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
 >ASV_2306	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
@@ -2379,7 +2379,7 @@
 >ASV_2378	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_2379	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_2380	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_2381	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_2381	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_2382	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Thaumasiovibrio	NA
 >ASV_2383	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
 >ASV_2384	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Propionigenium	NA
@@ -2404,7 +2404,7 @@
 >ASV_2403	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
 >ASV_2404	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_2405	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
->ASV_2406	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
+>ASV_2406	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	Thermomicrobiaceae	NA	NA
 >ASV_2407	Bacteria	PAUC34f	NA	NA	NA	NA	NA
 >ASV_2408	Bacteria	Cyanobacteria	Cyanobacteriia	Eurycoccales	Eurycoccales Incertae Sedis	Synechococcus PCC-7336	NA
 >ASV_2409	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Pleurocapsa PCC-7319	NA
@@ -2448,7 +2448,7 @@
 >ASV_2447	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_2448	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Mesoflavibacter	NA
 >ASV_2449	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Halioglobus	NA
->ASV_2450	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	NA
+>ASV_2450	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_2451	Bacteria	Chloroflexi	TK10	NA	NA	NA	NA
 >ASV_2452	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_2453	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -2465,7 +2465,7 @@
 >ASV_2464	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	NA	NA
 >ASV_2465	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_2466	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
->ASV_2467	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_2467	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_2468	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_2469	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Paraspirulinaceae	Spirulina P7	NA
 >ASV_2470	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
@@ -2536,7 +2536,7 @@
 >ASV_2535	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_2536	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	mle1-7	NA
 >ASV_2537	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
->ASV_2538	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_2538	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_2539	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2540	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NA
 >ASV_2541	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Fusibacteraceae	Fusibacter	NA
@@ -2547,7 +2547,7 @@
 >ASV_2546	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	NA
 >ASV_2547	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	NA
 >ASV_2548	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_2549	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_2549	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_2550	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_2551	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	NA	NA
 >ASV_2552	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
@@ -2580,7 +2580,7 @@
 >ASV_2579	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	NA
 >ASV_2580	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_2581	Bacteria	Proteobacteria	Gammaproteobacteria	BD7-8	NA	NA	NA
->ASV_2582	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+>ASV_2582	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_2583	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_2584	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_2585	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NA
@@ -2668,7 +2668,7 @@
 >ASV_2667	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group II	NA	NA	NA
 >ASV_2668	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	NA	NA
 >ASV_2669	Bacteria	Cyanobacteria	Cyanobacteriia	Limnotrichales	Limnotrichaceae	Limnothrix	NA
->ASV_2670	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_2670	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
 >ASV_2671	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Chroococcidiopsis PCC-6712	NA
 >ASV_2672	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
 >ASV_2673	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
@@ -2692,7 +2692,7 @@
 >ASV_2691	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	Ferrimonas	balearica
 >ASV_2692	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_2693	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
->ASV_2694	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
+>ASV_2694	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_2695	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_2696	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_2697	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	OM43 clade	NA
@@ -2752,7 +2752,7 @@
 >ASV_2751	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_2752	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Fuerstia	NA
 >ASV_2753	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
->ASV_2754	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_2754	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	NA	NA	NA
 >ASV_2755	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_2756	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_2757	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Cyanobacteriaceae	Geminobacterium	NA
@@ -2772,7 +2772,7 @@
 >ASV_2771	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_2772	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	NA	NA
 >ASV_2773	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
->ASV_2774	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_2774	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_2775	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	NA	NA
 >ASV_2776	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	NA	NA
 >ASV_2777	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
@@ -2846,7 +2846,7 @@
 >ASV_2845	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_2846	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_2847	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	NA	NA
->ASV_2848	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudoruegeria	NA
+>ASV_2848	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_2849	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2850	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	NA	NA
 >ASV_2851	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
@@ -2859,14 +2859,14 @@
 >ASV_2858	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_2859	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	Francisella	NA
 >ASV_2860	Bacteria	Desulfobacterota	Desulfobacteria	Desulfobacterales	Desulfobacteraceae	Desulfobacter	NA
->ASV_2861	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Aquincola	NA
+>ASV_2861	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA
 >ASV_2862	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudohongiellaceae	Pseudohongiella	NA
 >ASV_2863	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	NA
 >ASV_2864	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_2865	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum	NA
 >ASV_2866	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	NA
 >ASV_2867	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_2868	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_2868	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	NA	NA	NA
 >ASV_2869	Bacteria	Proteobacteria	Gammaproteobacteria	JTB23	NA	NA	NA
 >ASV_2870	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	Dasania	NA
 >ASV_2871	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
@@ -2885,11 +2885,11 @@
 >ASV_2884	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Acrophormium PCC-7375	NA
 >ASV_2885	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Owenweeksia	NA
 >ASV_2886	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
->ASV_2887	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
+>ASV_2887	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
 >ASV_2888	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_2889	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_2890	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
->ASV_2891	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_2891	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_2892	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Pseudofulvibacter	NA
 >ASV_2893	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Synechococcales Incertae Sedis	Schizothrix LEGE 07164	NA
 >ASV_2894	Bacteria	Acetothermia	Acetothermiia	NA	NA	NA	NA
@@ -2898,7 +2898,7 @@
 >ASV_2897	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2898	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_2899	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
->ASV_2900	Bacteria	Actinobacteriota	Actinobacteria	NA	NA	NA	NA
+>ASV_2900	Bacteria	Actinobacteriota	NA	NA	NA	NA	NA
 >ASV_2901	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_2902	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_2903	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
@@ -2955,7 +2955,7 @@
 >ASV_2954	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_2955	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_2956	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
->ASV_2957	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_2957	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marinovum	NA
 >ASV_2958	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_2959	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Methylacidiphilales	Methylacidiphilaceae	NA	NA
 >ASV_2960	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
@@ -3010,7 +3010,7 @@
 >ASV_3009	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nautella	NA
 >ASV_3010	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade III	NA	NA
 >ASV_3011	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
->ASV_3012	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_3012	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_3013	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	NA	NA
 >ASV_3014	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_3015	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	NA	NA	NA
@@ -3020,7 +3020,7 @@
 >ASV_3019	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Phormidesmis ANT.LACV5.1	NA
 >ASV_3020	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
 >ASV_3021	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
->ASV_3022	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_3022	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	NA	NA
 >ASV_3023	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Cyanobacteriaceae	Geminobacterium	NA
 >ASV_3024	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3025	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
@@ -3089,7 +3089,7 @@
 >ASV_3088	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3089	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_3090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Halioglobus	NA
->ASV_3091	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_3091	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
 >ASV_3092	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_3093	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	NA
 >ASV_3094	Bacteria	NB1-j	NA	NA	NA	NA	NA
@@ -3175,7 +3175,7 @@
 >ASV_3174	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
 >ASV_3175	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	NA
 >ASV_3176	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_3177	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Maritimimonas	NA
+>ASV_3177	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_3178	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
 >ASV_3179	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_3180	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
@@ -3186,7 +3186,7 @@
 >ASV_3185	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_3186	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_3187	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
->ASV_3188	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
+>ASV_3188	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aquibacter	NA
 >ASV_3189	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_3190	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_3191	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	NA
@@ -3227,14 +3227,14 @@
 >ASV_3226	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	Arenicella	NA
 >ASV_3227	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Halarcobacter	NA
 >ASV_3228	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Psychrilyobacter	atlanticus
->ASV_3229	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_3229	Bacteria	Proteobacteria	Gammaproteobacteria	EC3	NA	NA	NA
 >ASV_3230	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_3231	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3232	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	NA	NA
 >ASV_3233	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	Roseimarinus	NA
 >ASV_3234	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 9	NA	NA	NA
 >ASV_3235	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
->ASV_3236	Bacteria	Desulfobacterota	Desulfuromonadia	NA	NA	NA	NA
+>ASV_3236	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
 >ASV_3237	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	NA
 >ASV_3238	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3239	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 17	NA	NA	NA
@@ -3263,7 +3263,7 @@
 >ASV_3262	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Parvularculaceae	NA	NA
 >ASV_3263	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3264	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	NA
->ASV_3265	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
+>ASV_3265	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3266	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
 >ASV_3267	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
 >ASV_3268	Bacteria	NA	NA	NA	NA	NA	NA
@@ -3299,7 +3299,7 @@
 >ASV_3298	Bacteria	Proteobacteria	Gammaproteobacteria	Ga0077536	NA	NA	NA
 >ASV_3299	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3300	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
->ASV_3301	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	NA
+>ASV_3301	Bacteria	Myxococcota	Polyangia	NA	NA	NA	NA
 >ASV_3302	Bacteria	Deinococcota	Deinococci	Deinococcales	Trueperaceae	Truepera	NA
 >ASV_3303	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_3304	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -3333,7 +3333,7 @@
 >ASV_3332	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3333	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_3334	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
->ASV_3335	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
+>ASV_3335	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_3336	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_3337	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3338	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
@@ -3360,7 +3360,7 @@
 >ASV_3359	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_3360	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Pleurocapsa PCC-7319	NA
 >ASV_3361	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
->ASV_3362	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
+>ASV_3362	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Tistlia	NA
 >ASV_3363	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halomonadaceae	Halomonas	taeanensis
 >ASV_3364	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_3365	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
@@ -3377,16 +3377,16 @@
 >ASV_3376	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
 >ASV_3377	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_3378	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	NA
->ASV_3379	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
+>ASV_3379	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
 >ASV_3380	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	NA	NA	NA
 >ASV_3381	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_3382	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3383	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Labrenzia	NA
 >ASV_3384	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
->ASV_3385	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
+>ASV_3385	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	Thermomicrobiaceae	NA	NA
 >ASV_3386	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_3387	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
->ASV_3388	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_3388	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	NA	NA
 >ASV_3389	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
 >ASV_3390	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_3391	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
@@ -3402,7 +3402,7 @@
 >ASV_3401	Bacteria	Verrucomicrobiota	Lentisphaeria	P.palmC41	NA	NA	NA
 >ASV_3402	Bacteria	Desulfobacterota	Desulfuromonadia	Bradymonadales	NA	NA	NA
 >ASV_3403	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
->ASV_3404	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
+>ASV_3404	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_3405	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	NA	NA	NA	NA
 >ASV_3406	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_3407	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
@@ -3425,9 +3425,9 @@
 >ASV_3424	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
 >ASV_3425	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_3426	Bacteria	Acidobacteriota	Vicinamibacteria	Subgroup 9	NA	NA	NA
->ASV_3427	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	NA	NA
+>ASV_3427	Bacteria	Firmicutes	Bacilli	Lactobacillales	NA	NA	NA
 >ASV_3428	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_3429	Bacteria	Cyanobacteria	Cyanobacteriia	Thermosynechococcales	NA	NA	NA
+>ASV_3429	Bacteria	Cyanobacteria	Cyanobacteriia	Thermosynechococcales	Acaryochloridaceae	Acaryochloris MBIC11017	NA
 >ASV_3430	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_3431	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_3432	Bacteria	Myxococcota	Polyangia	Blfdi19	NA	NA	NA
@@ -3449,7 +3449,7 @@
 >ASV_3448	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_3449	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	BD2-7	NA	NA
 >ASV_3450	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Persicirhabdus	NA
->ASV_3451	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	Ferrimonas	NA
+>ASV_3451	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Shewanellaceae	NA	NA
 >ASV_3452	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_3453	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3454	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	NA	NA
@@ -3569,13 +3569,13 @@
 >ASV_3568	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Planctomicrobium	NA
 >ASV_3569	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
 >ASV_3570	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Halobacteriovorax	NA
->ASV_3571	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	NA	NA	NA
+>ASV_3571	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
 >ASV_3572	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	NA
 >ASV_3573	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Cyanobacteriaceae	NA	NA
 >ASV_3574	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_3575	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Algisphaera	NA
 >ASV_3576	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
->ASV_3577	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_3577	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_3578	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Kiloniella	NA
 >ASV_3579	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	NA
 >ASV_3580	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
@@ -3583,18 +3583,18 @@
 >ASV_3582	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_3583	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	B2706-C7	NA
 >ASV_3584	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Robiginitalea	NA
->ASV_3585	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_3585	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_3586	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3587	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Bythopirellula	NA
 >ASV_3588	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
 >ASV_3589	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3590	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_3591	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
->ASV_3592	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	NA	NA
+>ASV_3592	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_3593	Bacteria	Verrucomicrobiota	Lentisphaeria	P.palmC41	NA	NA	NA
 >ASV_3594	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	NA
 >ASV_3595	Bacteria	Proteobacteria	Gammaproteobacteria	Francisellales	Francisellaceae	Francisella	philomiragia
->ASV_3596	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_3596	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	NA	NA
 >ASV_3597	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	HTCC5015	NA
 >ASV_3598	Bacteria	Chloroflexi	Anaerolineae	Ardenticatenales	Ardenticatenaceae	NA	NA
 >ASV_3599	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
@@ -3613,7 +3613,7 @@
 >ASV_3612	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	NA	NA
 >ASV_3613	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_3614	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
->ASV_3615	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Fuerstia	NA
+>ASV_3615	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
 >ASV_3616	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	LS-NOB	NA
 >ASV_3617	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
 >ASV_3618	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
@@ -3667,7 +3667,7 @@
 >ASV_3666	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_3667	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_3668	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
->ASV_3669	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Candidatus Thiobios	NA
+>ASV_3669	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_3670	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
 >ASV_3671	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_3672	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Propionigenium	NA
@@ -3699,7 +3699,7 @@
 >ASV_3698	Bacteria	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	Sumerlaea	NA
 >ASV_3699	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	NA	NA
 >ASV_3700	Bacteria	Poribacteria	NA	NA	NA	NA	NA
->ASV_3701	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	NA	NA
+>ASV_3701	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_3702	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
 >ASV_3703	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Cenarchaeum	NA
 >ASV_3704	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
@@ -3748,7 +3748,7 @@
 >ASV_3747	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	FS142-36B-02	NA
 >ASV_3748	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	NA	NA	NA
 >ASV_3749	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
->ASV_3750	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	NA	NA
+>ASV_3750	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
 >ASV_3751	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3752	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_3753	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
@@ -3853,7 +3853,7 @@
 >ASV_3852	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_3853	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_3854	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Umboniibacter	NA
->ASV_3855	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	NA	NA
+>ASV_3855	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Parahaliea	NA
 >ASV_3856	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Vicingus	NA
 >ASV_3857	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Kordia	jejudonensis
 >ASV_3858	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
@@ -3903,7 +3903,7 @@
 >ASV_3902	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_3903	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_3904	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
->ASV_3905	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_3905	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Aliiroseovarius	NA
 >ASV_3906	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
 >ASV_3907	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_3908	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	NA	NA
@@ -3919,7 +3919,7 @@
 >ASV_3918	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_3919	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	OM182 clade	NA	NA
 >ASV_3920	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Chroococcidiopsis PCC-6712	NA
->ASV_3921	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_3921	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_3922	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_3923	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_3924	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
@@ -3930,7 +3930,7 @@
 >ASV_3929	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	NA	NA
 >ASV_3930	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
 >ASV_3931	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Coraliomargarita	NA
->ASV_3932	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Desertifilaceae	NA	NA
+>ASV_3932	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Desertifilaceae	Roseofilum AO1-A	NA
 >ASV_3933	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
 >ASV_3934	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_3935	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	FS142-36B-02	NA
@@ -3949,7 +3949,7 @@
 >ASV_3948	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Xenococcus PCC-7305	NA
 >ASV_3949	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_3950	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	NA
->ASV_3951	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
+>ASV_3951	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Pseudovibrio	NA
 >ASV_3952	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
 >ASV_3953	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
 >ASV_3954	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
@@ -3986,7 +3986,7 @@
 >ASV_3985	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_3986	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_3987	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flagellimonas	NA
->ASV_3988	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
+>ASV_3988	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_3989	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_3990	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
 >ASV_3991	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
@@ -4003,7 +4003,7 @@
 >ASV_4002	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_4003	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4004	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_4005	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
+>ASV_4005	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_4006	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_4007	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_4008	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
@@ -4029,14 +4029,14 @@
 >ASV_4028	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_4029	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	NA	NA
 >ASV_4030	Bacteria	Planctomycetota	028H05-P-BN-P5	NA	NA	NA	NA
->ASV_4031	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
+>ASV_4031	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	NA	NA
 >ASV_4032	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_4033	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Parahaliea	NA
 >ASV_4034	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	NA
 >ASV_4035	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_4036	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Pleurocapsa PCC-7319	NA
 >ASV_4037	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Chroococcidiopsis PCC-6712	NA
->ASV_4038	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	NA	NA
+>ASV_4038	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Vibrio	NA
 >ASV_4039	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	NA	NA
 >ASV_4040	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	NA	NA
 >ASV_4041	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
@@ -4055,7 +4055,7 @@
 >ASV_4054	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Pelagibius	NA
 >ASV_4055	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Oceanicaulis	NA
 >ASV_4056	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Geojedonia	NA
->ASV_4057	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+>ASV_4057	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	NA	NA
 >ASV_4058	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_4059	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_4060	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
@@ -4092,10 +4092,10 @@
 >ASV_4091	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	Halomicronema TFEP1	NA
 >ASV_4092	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_4093	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
->ASV_4094	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_4094	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_4095	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_4096	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
->ASV_4097	Bacteria	Verrucomicrobiota	Lentisphaeria	NA	NA	NA	NA
+>ASV_4097	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
 >ASV_4098	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_4099	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_4100	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Diplosphaera	NA
@@ -4107,9 +4107,9 @@
 >ASV_4106	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Microbulbiferaceae	Microbulbifer	NA
 >ASV_4107	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
 >ASV_4108	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Aestuariicella	NA
->ASV_4109	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_4109	Bacteria	Proteobacteria	Gammaproteobacteria	Granulosicoccales	NA	NA	NA
 >ASV_4110	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
->ASV_4111	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_4111	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_4112	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Haloferula	NA
 >ASV_4113	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4114	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Bauldia	NA
@@ -4119,7 +4119,7 @@
 >ASV_4118	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
 >ASV_4119	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	NA
 >ASV_4120	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
->ASV_4121	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	NA	NA
+>ASV_4121	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_4122	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_4123	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_4124	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
@@ -4131,7 +4131,7 @@
 >ASV_4130	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_4131	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	Microscilla	NA
 >ASV_4132	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales	Elsteraceae	NA	NA
->ASV_4133	Bacteria	Myxococcota	NA	NA	NA	NA	NA
+>ASV_4133	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4134	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	NA
 >ASV_4135	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_4136	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Idiomarinaceae	Idiomarina	NA
@@ -4183,10 +4183,10 @@
 >ASV_4182	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
 >ASV_4183	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	NA
 >ASV_4184	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	CL500-3	NA
->ASV_4185	Bacteria	Nitrospirota	NA	NA	NA	NA	NA
+>ASV_4185	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4186	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	Arenicella	NA
 >ASV_4187	Bacteria	Chloroflexi	JG30-KF-CM66	NA	NA	NA	NA
->ASV_4188	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_4188	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4189	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_4190	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	NA
 >ASV_4191	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Cenarchaeum	NA
@@ -4205,7 +4205,7 @@
 >ASV_4204	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4205	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_4206	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_4207	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_4207	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4208	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_4209	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_4210	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
@@ -4222,11 +4222,11 @@
 >ASV_4221	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	NA	NA
 >ASV_4222	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
 >ASV_4223	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Acrophormium PCC-7375	NA
->ASV_4224	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassobius	NA
->ASV_4225	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_4224	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_4225	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_4226	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4227	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	NA
->ASV_4228	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
+>ASV_4228	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4229	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Pleurocapsa PCC-7319	NA
 >ASV_4230	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4231	Bacteria	Proteobacteria	Gammaproteobacteria	EPR3968-O8a-Bc78	NA	NA	NA
@@ -4247,10 +4247,10 @@
 >ASV_4246	Bacteria	Desulfobacterota	Desulfobulbia	Desulfobulbales	Desulfocapsaceae	Desulfotalea	NA
 >ASV_4247	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	NA
 >ASV_4248	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Halodesulfovibrio	NA
->ASV_4249	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_4249	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4250	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_4251	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_4252	Bacteria	Myxococcota	Polyangia	NA	NA	NA	NA
+>ASV_4252	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
 >ASV_4253	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Marinicella	litoralis
 >ASV_4254	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_4255	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
@@ -4433,7 +4433,7 @@
 >ASV_4432	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
 >ASV_4433	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_4434	Bacteria	Proteobacteria	Alphaproteobacteria	Sneathiellales	Sneathiellaceae	Sneathiella	NA
->ASV_4435	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	NA	NA
+>ASV_4435	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4436	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Rubidimonas	NA
 >ASV_4437	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	NA
 >ASV_4438	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Cenarchaeum	NA
@@ -4477,14 +4477,14 @@
 >ASV_4476	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_4477	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_4478	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	OM182 clade	NA	NA
->ASV_4479	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_4479	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	NA	NA
 >ASV_4480	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_4481	Bacteria	Desulfobacterota	Desulfuromonadia	PB19	NA	NA	NA
 >ASV_4482	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
 >ASV_4483	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	NA
 >ASV_4484	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_4485	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	NA
->ASV_4486	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Halioglobus	NA
+>ASV_4486	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	NA	NA
 >ASV_4487	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_4488	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	FS142-36B-02	NA
 >ASV_4489	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
@@ -4504,11 +4504,11 @@
 >ASV_4503	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_4504	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_4505	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
->ASV_4506	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	NA
+>ASV_4506	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	NA	NA
 >ASV_4507	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_4508	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
 >ASV_4509	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphobacterium	NA
->ASV_4510	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Acrophormium PCC-7375	NA
+>ASV_4510	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	NA	NA
 >ASV_4511	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_4512	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aureisphaera	NA
 >ASV_4513	Bacteria	Latescibacterota	NA	NA	NA	NA	NA
@@ -4590,7 +4590,7 @@
 >ASV_4589	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	FS142-36B-02	NA
 >ASV_4590	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Coleofasciculaceae	Symploca PCC-8002	NA
 >ASV_4591	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	NA	NA
->ASV_4592	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	NA	NA
+>ASV_4592	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	NA	NA	NA
 >ASV_4593	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_4594	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinilabiliaceae	NA	NA
 >ASV_4595	Bacteria	NA	NA	NA	NA	NA	NA
@@ -4603,7 +4603,7 @@
 >ASV_4602	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_4603	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4604	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
->ASV_4605	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
+>ASV_4605	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Vicingus	NA
 >ASV_4606	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Nostocaceae	Rivularia PCC-7116	NA
 >ASV_4607	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopumilus	NA
 >ASV_4608	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Imperialibacter	NA
@@ -4614,7 +4614,7 @@
 >ASV_4613	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	NA
 >ASV_4614	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4615	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
->ASV_4616	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	NA
+>ASV_4616	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_4617	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_4618	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	NA	NA
 >ASV_4619	Bacteria	NA	NA	NA	NA	NA	NA
@@ -4636,7 +4636,7 @@
 >ASV_4635	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	BD2-7	NA	NA
 >ASV_4636	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	NA
 >ASV_4637	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
->ASV_4638	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
+>ASV_4638	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4639	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_4640	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_4641	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
@@ -4677,7 +4677,7 @@
 >ASV_4676	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
 >ASV_4677	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	MD3-55	NA
 >ASV_4678	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudohongiellaceae	Pseudohongiella	NA
->ASV_4679	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_4679	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_4680	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_4681	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_4682	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
@@ -4716,7 +4716,7 @@
 >ASV_4715	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
 >ASV_4716	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_4717	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
->ASV_4718	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_4718	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_4719	Bacteria	Firmicutes	Bacilli	Bacillales	Sporolactobacillaceae	Sporolactobacillus	NA
 >ASV_4720	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_4721	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
@@ -4765,7 +4765,7 @@
 >ASV_4764	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	NA
 >ASV_4765	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosomonas	NA
 >ASV_4766	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
->ASV_4767	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_4767	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Litoreibacter	NA
 >ASV_4768	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4769	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Idiomarinaceae	Idiomarina	andamanensis
 >ASV_4770	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	NA
@@ -4826,7 +4826,7 @@
 >ASV_4825	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	Oleispira	NA
 >ASV_4826	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_4827	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
->ASV_4828	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
+>ASV_4828	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	NA
 >ASV_4829	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
 >ASV_4830	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas	NA
 >ASV_4831	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
@@ -4883,7 +4883,7 @@
 >ASV_4882	Bacteria	Proteobacteria	Gammaproteobacteria	Thiohalorhabdales	Thiohalorhabdaceae	NA	NA
 >ASV_4883	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	Pseudoalteromonas	NA
 >ASV_4884	Bacteria	Planctomycetota	028H05-P-BN-P5	NA	NA	NA	NA
->ASV_4885	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	Spongiispira	NA
+>ASV_4885	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	NA	NA
 >ASV_4886	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
 >ASV_4887	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_4888	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	NA
@@ -4894,7 +4894,7 @@
 >ASV_4893	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	NA
 >ASV_4894	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_4895	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	NA	NA
->ASV_4896	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
+>ASV_4896	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_4897	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Cm1-21	NA
 >ASV_4898	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
 >ASV_4899	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -4936,14 +4936,14 @@
 >ASV_4935	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_4936	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_4937	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	NA
->ASV_4938	Bacteria	Spirochaetota	NA	NA	NA	NA	NA
+>ASV_4938	Bacteria	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae	Turneriella	NA
 >ASV_4939	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_4940	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_4941	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	NA	NA
 >ASV_4942	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_4943	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Pleurocapsa PCC-7319	NA
 >ASV_4944	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
->ASV_4945	Bacteria	Aquificota	Aquificae	Aquificales	Aquificaceae	NA	NA
+>ASV_4945	Bacteria	Aquificota	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter	NA
 >ASV_4946	Bacteria	Aquificota	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter	NA
 >ASV_4947	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Phormidium MBIC10003	NA
 >ASV_4948	Bacteria	Proteobacteria	Gammaproteobacteria	AT-s2-59	NA	NA	NA
@@ -4954,7 +4954,7 @@
 >ASV_4953	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Halioglobus	NA
 >ASV_4954	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Cm1-21	NA
 >ASV_4955	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Marinicella	NA
->ASV_4956	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassobius	NA
+>ASV_4956	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_4957	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Portibacter	NA
 >ASV_4958	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Fabibacter	NA
 >ASV_4959	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Kistimonas	NA
@@ -5003,7 +5003,7 @@
 >ASV_5002	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rubripirellula	NA
 >ASV_5003	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_5004	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Terasakiellaceae	NA	NA
->ASV_5005	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
+>ASV_5005	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_5006	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptoclostridium	NA
 >ASV_5007	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	NA	NA
 >ASV_5008	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
@@ -5029,7 +5029,7 @@
 >ASV_5028	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	NA	NA
 >ASV_5029	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_5030	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Synechococcales Incertae Sedis	Schizothrix LEGE 07164	NA
->ASV_5031	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	NA	NA	NA
+>ASV_5031	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_5032	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	NA
 >ASV_5033	Bacteria	Acidobacteriota	Holophagae	Acanthopleuribacterales	Acanthopleuribacteraceae	Acanthopleuribacter	NA
 >ASV_5034	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Limibaculum	NA
@@ -5049,7 +5049,7 @@
 >ASV_5048	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Malaciobacter	NA
 >ASV_5049	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	NA	NA
 >ASV_5050	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	NA
->ASV_5051	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_5051	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	NA	NA
 >ASV_5052	Bacteria	Acidobacteriota	Holophagae	Acanthopleuribacterales	Acanthopleuribacteraceae	Acanthopleuribacter	NA
 >ASV_5053	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
 >ASV_5054	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
@@ -5073,7 +5073,7 @@
 >ASV_5072	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_5073	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Salinirepens	NA
 >ASV_5074	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	NA	NA
->ASV_5075	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	NA	NA
+>ASV_5075	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Poseidonibacter	NA
 >ASV_5076	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
 >ASV_5077	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_5078	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -5091,7 +5091,7 @@
 >ASV_5090	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_5091	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	MBAE14	NA	NA
 >ASV_5092	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
->ASV_5093	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_5093	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	NA	NA
 >ASV_5094	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_5095	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Colwelliaceae	Thalassotalea	agariperforans
 >ASV_5096	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
@@ -5132,12 +5132,12 @@
 >ASV_5131	Bacteria	Acidobacteriota	Holophagae	Acanthopleuribacterales	Acanthopleuribacteraceae	Acanthopleuribacter	NA
 >ASV_5132	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Xenococcus PCC-7305	NA
 >ASV_5133	Bacteria	Proteobacteria	Gammaproteobacteria	HOC36	NA	NA	NA
->ASV_5134	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
+>ASV_5134	Bacteria	Chloroflexi	Anaerolineae	SBR1031	NA	NA	NA
 >ASV_5135	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_5136	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	NA	NA
 >ASV_5137	Bacteria	Acidobacteriota	Subgroup 21	NA	NA	NA	NA
 >ASV_5138	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
->ASV_5139	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
+>ASV_5139	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_5140	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_5141	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_5142	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
@@ -5212,7 +5212,7 @@
 >ASV_5211	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_5212	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	NA	NA
 >ASV_5213	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Halieaceae	Parahaliea	NA
->ASV_5214	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
+>ASV_5214	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_5215	Bacteria	Verrucomicrobiota	Lentisphaeria	P.palmC41	NA	NA	NA
 >ASV_5216	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_5217	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
@@ -5220,7 +5220,7 @@
 >ASV_5219	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Phormidium MBIC10003	NA
 >ASV_5220	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_5221	Bacteria	Poribacteria	NA	NA	NA	NA	NA
->ASV_5222	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_5222	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	NA	NA
 >ASV_5223	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	NA	NA
 >ASV_5224	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Lentimonas	NA
 >ASV_5225	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	NA
@@ -5251,8 +5251,8 @@
 >ASV_5250	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	NA	NA
 >ASV_5251	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Aureibacter	NA
 >ASV_5252	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_5253	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	NA	NA
->ASV_5254	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
+>ASV_5253	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Cm1-21	NA
+>ASV_5254	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Halobacteriovorax	NA
 >ASV_5255	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_5256	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
 >ASV_5257	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	NA	NA
@@ -5261,7 +5261,7 @@
 >ASV_5260	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_5261	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_5262	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_5263	Bacteria	Chloroflexi	Anaerolineae	NA	NA	NA	NA
+>ASV_5263	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_5264	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_5265	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_5266	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
@@ -5288,7 +5288,7 @@
 >ASV_5287	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_5288	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5289	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
->ASV_5290	Bacteria	Myxococcota	NA	NA	NA	NA	NA
+>ASV_5290	Bacteria	Myxococcota	Polyangia	NA	NA	NA	NA
 >ASV_5291	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Algimonas	NA
 >ASV_5292	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	Candidatus Puniceispirillum	NA
 >ASV_5293	Bacteria	Proteobacteria	Gammaproteobacteria	pItb-vmat-80	NA	NA	NA
@@ -5296,7 +5296,7 @@
 >ASV_5295	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_5296	Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peribacteria	NA	NA	NA
 >ASV_5297	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
->ASV_5298	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Winogradskyella	NA
+>ASV_5298	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_5299	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Lutimonas	NA
 >ASV_5300	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_5301	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
@@ -5324,7 +5324,7 @@
 >ASV_5323	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_5324	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_5325	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
->ASV_5326	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_5326	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_5327	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	NA
 >ASV_5328	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_5329	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Algitalea	NA
@@ -5371,7 +5371,7 @@
 >ASV_5370	Bacteria	Proteobacteria	Gammaproteobacteria	Tenderiales	Tenderiaceae	Candidatus Tenderia	NA
 >ASV_5371	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Halobacteriovorax	NA
 >ASV_5372	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
->ASV_5373	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	Pseudoalteromonas	NA
+>ASV_5373	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	NA	NA
 >ASV_5374	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_5375	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_5376	Bacteria	NA	NA	NA	NA	NA	NA
@@ -5408,7 +5408,7 @@
 >ASV_5407	Bacteria	PAUC34f	NA	NA	NA	NA	NA
 >ASV_5408	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	MWH-UniP1 aquatic group	NA	NA
 >ASV_5409	Bacteria	Chloroflexi	TK17	NA	NA	NA	NA
->ASV_5410	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_5410	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
 >ASV_5411	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_5412	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_5413	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	NA
@@ -5425,7 +5425,7 @@
 >ASV_5424	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_5425	Bacteria	Cyanobacteria	Cyanobacteriia	Limnotrichales	Limnotrichaceae	Limnothrix	NA
 >ASV_5426	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Midichloriaceae	Candidatus Midichloria	NA
->ASV_5427	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_5427	Bacteria	Spirochaetota	NA	NA	NA	NA	NA
 >ASV_5428	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_5429	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_5430	Bacteria	NA	NA	NA	NA	NA	NA
@@ -5473,7 +5473,7 @@
 >ASV_5472	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	NA	NA
 >ASV_5473	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	cecorum
 >ASV_5474	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	NA	NA
->ASV_5475	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_5475	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	NA	NA	NA
 >ASV_5476	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hirschia	NA
 >ASV_5477	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	NA	NA
 >ASV_5478	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
@@ -5534,7 +5534,7 @@
 >ASV_5533	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_5534	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
 >ASV_5535	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
->ASV_5536	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_5536	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_5537	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_5538	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Thalassobaculaceae	Thalassobaculum	NA
 >ASV_5539	Bacteria	NA	NA	NA	NA	NA	NA
@@ -5560,7 +5560,7 @@
 >ASV_5559	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
 >ASV_5560	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	Balneola	NA
 >ASV_5561	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group III	NA	NA	NA
->ASV_5562	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_5562	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_5563	Bacteria	Chloroflexi	Anaerolineae	Caldilineales	Caldilineaceae	NA	NA
 >ASV_5564	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
 >ASV_5565	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
@@ -5604,7 +5604,7 @@
 >ASV_5603	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	NA	NA
 >ASV_5604	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_5605	Bacteria	Planctomycetota	SGST604	NA	NA	NA	NA
->ASV_5606	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_5606	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_5607	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Psychrilyobacter	NA
 >ASV_5608	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_5609	Bacteria	NB1-j	NA	NA	NA	NA	NA
@@ -5613,7 +5613,7 @@
 >ASV_5612	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5613	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_5614	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Phormidium MBIC10003	NA
->ASV_5615	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	NA	NA
+>ASV_5615	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_5616	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_5617	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_5618	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	Aquicella	NA
@@ -5626,7 +5626,7 @@
 >ASV_5625	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_5626	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	NA	NA	NA
 >ASV_5627	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
->ASV_5628	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_5628	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
 >ASV_5629	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_5630	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Winogradskyella	NA
 >ASV_5631	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
@@ -5688,7 +5688,7 @@
 >ASV_5687	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_5688	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_5689	Bacteria	Proteobacteria	Gammaproteobacteria	Granulosicoccales	NA	NA	NA
->ASV_5690	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Alteromonadaceae	NA	NA
+>ASV_5690	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_5691	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_5692	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_5693	Bacteria	Verrucomicrobiota	Lentisphaeria	SS1-B-02-17	NA	NA	NA
@@ -5707,7 +5707,7 @@
 >ASV_5706	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
 >ASV_5707	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_5708	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
->ASV_5709	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Xenococcus CRM	NA
+>ASV_5709	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	NA	NA
 >ASV_5710	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	NA
 >ASV_5711	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5712	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
@@ -5774,7 +5774,7 @@
 >ASV_5773	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
 >ASV_5774	Bacteria	Desulfobacterota	Desulfobulbia	Desulfobulbales	Desulfocapsaceae	Desulfotalea	NA
 >ASV_5775	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
->ASV_5776	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
+>ASV_5776	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_5777	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_5778	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Synechococcales Incertae Sedis	Schizothrix LEGE 07164	NA
 >ASV_5779	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
@@ -5789,7 +5789,7 @@
 >ASV_5788	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_5789	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_5790	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
->ASV_5791	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_5791	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_5792	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	NA	NA
 >ASV_5793	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_5794	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS7 marine group	NA	NA
@@ -5830,7 +5830,7 @@
 >ASV_5829	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	Litoricola	NA
 >ASV_5830	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aureisphaera	salina
 >ASV_5831	Bacteria	Planctomycetota	Phycisphaerae	CCM11a	NA	NA	NA
->ASV_5832	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_5832	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_5833	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_5834	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_5835	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -5853,7 +5853,7 @@
 >ASV_5852	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_5853	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Fabibacter	NA
 >ASV_5854	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
->ASV_5855	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	NA	NA	NA
+>ASV_5855	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas	NA
 >ASV_5856	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_5857	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	NA
 >ASV_5858	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
@@ -5865,7 +5865,7 @@
 >ASV_5864	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_5865	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_5866	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	NA	NA	NA
->ASV_5867	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
+>ASV_5867	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_5868	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_5869	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5870	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	NA
@@ -5894,7 +5894,7 @@
 >ASV_5893	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Cetobacterium	NA
 >ASV_5894	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_5895	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_5896	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	NA	NA	NA
+>ASV_5896	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_5897	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	CL500-3	NA
 >ASV_5898	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	NA
 >ASV_5899	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
@@ -5917,7 +5917,7 @@
 >ASV_5916	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospirillaceae	[Aquaspirillum] polymorphum group	NA
 >ASV_5917	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_5918	Bacteria	NB1-j	NA	NA	NA	NA	NA
->ASV_5919	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	Plesiocystis	NA
+>ASV_5919	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	NA	NA
 >ASV_5920	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
 >ASV_5921	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_5922	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
@@ -5932,10 +5932,10 @@
 >ASV_5931	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
 >ASV_5932	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	NA	NA
 >ASV_5933	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
->ASV_5934	Bacteria	Verrucomicrobiota	Verrucomicrobiae	NA	NA	NA	NA
+>ASV_5934	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Methylacidiphilales	Methylacidiphilaceae	NA	NA
 >ASV_5935	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Psychromonadaceae	NA	NA
 >ASV_5936	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
->ASV_5937	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Ascidiimonas	NA
+>ASV_5937	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_5938	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_5939	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	NA	NA	NA
 >ASV_5940	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
@@ -5966,7 +5966,7 @@
 >ASV_5965	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Haloferula	NA
 >ASV_5966	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Aliicoccus	persicus
 >ASV_5967	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_5968	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_5968	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	NA
 >ASV_5969	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_5970	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5971	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -5979,7 +5979,7 @@
 >ASV_5978	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_5979	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	NA
 >ASV_5980	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
->ASV_5981	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Algisphaera	NA
+>ASV_5981	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
 >ASV_5982	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_5983	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_5984	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
@@ -5988,7 +5988,7 @@
 >ASV_5987	Bacteria	Cyanobacteria	Vampirivibrionia	Caenarcaniphilales	NA	NA	NA
 >ASV_5988	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Nostocaceae	Rivularia PCC-7116	NA
 >ASV_5989	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
->ASV_5990	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+>ASV_5990	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	NA	NA
 >ASV_5991	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_5992	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_5993	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Wenyingzhuangia	NA
@@ -6057,11 +6057,11 @@
 >ASV_6056	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6057	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	NA
 >ASV_6058	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
->ASV_6059	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_6059	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_6060	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_6061	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Parasphingopyxis	NA
 >ASV_6062	Bacteria	Proteobacteria	Gammaproteobacteria	D90	NA	NA	NA
->ASV_6063	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_6063	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_6064	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Synechococcales Incertae Sedis	Schizothrix LEGE 07164	NA
 >ASV_6065	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6066	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -6110,7 +6110,7 @@
 >ASV_6109	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Parvularculaceae	Marinicaulis	NA
 >ASV_6110	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	NA	NA
 >ASV_6111	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
->ASV_6112	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	NA	NA
+>ASV_6112	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Puniceicoccus	NA
 >ASV_6113	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	NA	NA
 >ASV_6114	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_6115	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
@@ -6125,7 +6125,7 @@
 >ASV_6124	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_6125	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_6126	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Xenococcus PCC-7305	NA
->ASV_6127	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_6127	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_6128	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_6129	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_6130	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	NA	NA
@@ -6156,7 +6156,7 @@
 >ASV_6155	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_6156	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_6157	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_6158	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	NA
+>ASV_6158	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	NA	NA
 >ASV_6159	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_6160	Bacteria	Patescibacteria	Parcubacteria	NA	NA	NA	NA
 >ASV_6161	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	NA
@@ -6165,7 +6165,7 @@
 >ASV_6164	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	NA	NA
 >ASV_6165	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	NA	NA	NA
 >ASV_6166	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
->ASV_6167	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_6167	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Woeseiaceae	Woeseia	NA
 >ASV_6168	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	Blastocatella	NA
 >ASV_6169	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6170	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	NA
@@ -6271,7 +6271,7 @@
 >ASV_6270	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_6271	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
 >ASV_6272	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_6273	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Terasakiellaceae	NA	NA
+>ASV_6273	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
 >ASV_6274	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_6275	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_6276	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	NA	NA
@@ -6294,7 +6294,7 @@
 >ASV_6293	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
 >ASV_6294	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_6295	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
->ASV_6296	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	NA	NA
+>ASV_6296	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 16	NA
 >ASV_6297	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
 >ASV_6298	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_6299	Bacteria	NA	NA	NA	NA	NA	NA
@@ -6342,7 +6342,7 @@
 >ASV_6341	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Portibacter	NA
 >ASV_6342	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	Luteivirga	sdotyamensis
 >ASV_6343	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albidovulum	NA
->ASV_6344	Bacteria	Firmicutes	NA	NA	NA	NA	NA
+>ASV_6344	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6345	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
 >ASV_6346	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_6347	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
@@ -6352,7 +6352,7 @@
 >ASV_6351	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_6352	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_6353	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
->ASV_6354	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	NA	NA
+>ASV_6354	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_6355	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_6356	Bacteria	Acidobacteriota	Holophagae	Acanthopleuribacterales	Acanthopleuribacteraceae	Acanthopleuribacter	NA
 >ASV_6357	Bacteria	Firmicutes	Bacilli	Entomoplasmatales	type III	NA	NA
@@ -6365,7 +6365,7 @@
 >ASV_6364	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Salinirepens	NA
 >ASV_6365	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Alteromonadaceae	Agaribacter	NA
 >ASV_6366	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Thalassospiraceae	Thalassospira	NA
->ASV_6367	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
+>ASV_6367	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Halobacteriovorax	NA
 >ASV_6368	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Pricia	NA
 >ASV_6369	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_6370	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
@@ -6382,7 +6382,7 @@
 >ASV_6381	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	Candidatus Alysiosphaera	NA
 >ASV_6382	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Pseudarcobacter	ellisii
 >ASV_6383	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
->ASV_6384	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Schlesneriaceae	NA	NA
+>ASV_6384	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_6385	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_6386	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_6387	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
@@ -6426,9 +6426,9 @@
 >ASV_6425	Bacteria	Desulfobacterota	Desulfuromonadia	Bradymonadales	NA	NA	NA
 >ASV_6426	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	Vicingus	NA
 >ASV_6427	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Sungkyunkwania	NA
->ASV_6428	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
+>ASV_6428	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_6429	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	NA
->ASV_6430	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_6430	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	NA	NA
 >ASV_6431	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
 >ASV_6432	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	Litoricola	NA
 >ASV_6433	Bacteria	Chloroflexi	TK10	NA	NA	NA	NA
@@ -6481,14 +6481,14 @@
 >ASV_6480	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	NA
 >ASV_6481	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	NA	NA
 >ASV_6482	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Fodinicurvataceae	NA	NA
->ASV_6483	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	NA	NA
+>ASV_6483	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_6484	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Terasakiellaceae	NA	NA
 >ASV_6485	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_6486	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_6487	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	Nannocystis	NA
 >ASV_6488	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_6489	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	NA	NA
->ASV_6490	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
+>ASV_6490	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_6491	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_6492	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
 >ASV_6493	Bacteria	Desulfobacterota	Desulfuromonadia	PB19	NA	NA	NA
@@ -6509,11 +6509,11 @@
 >ASV_6508	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	NA	NA
 >ASV_6509	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_6510	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
->ASV_6511	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
+>ASV_6511	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_6512	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_6513	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Nitrosococcaceae	Cm1-21	NA
 >ASV_6514	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Salinispira	NA
->ASV_6515	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	NA	NA	NA
+>ASV_6515	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	Fibrobacteraceae	NA	NA
 >ASV_6516	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	NA	NA
 >ASV_6517	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	NA
 >ASV_6518	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	NA
@@ -6535,7 +6535,7 @@
 >ASV_6534	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS7 marine group	NA	NA
 >ASV_6535	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NS10 marine group	NA
 >ASV_6536	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
->ASV_6537	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_6537	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_6538	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	Flammeovirga	NA
 >ASV_6539	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	NA
 >ASV_6540	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -6605,7 +6605,7 @@
 >ASV_6604	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_6605	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_6606	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_6607	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_6607	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseovarius	NA
 >ASV_6608	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6609	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aureimarina	NA
 >ASV_6610	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
@@ -6650,7 +6650,7 @@
 >ASV_6649	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	SM1H02	NA	NA
 >ASV_6650	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_6651	Bacteria	Patescibacteria	Parcubacteria	Candidatus Campbellbacteria	NA	NA	NA
->ASV_6652	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
+>ASV_6652	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_6653	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_6654	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	brevitalea
 >ASV_6655	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Paraspirulinaceae	Spirulina P7	NA
@@ -6724,7 +6724,7 @@
 >ASV_6723	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	NA
 >ASV_6724	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_6725	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
->ASV_6726	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	NA	NA
+>ASV_6726	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_6727	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
 >ASV_6728	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_6729	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
@@ -6763,9 +6763,9 @@
 >ASV_6762	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
 >ASV_6763	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6764	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
->ASV_6765	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_6765	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6766	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
->ASV_6767	Bacteria	Verrucomicrobiota	Lentisphaeria	NA	NA	NA	NA
+>ASV_6767	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6768	Bacteria	Verrucomicrobiota	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	NA
 >ASV_6769	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Kistimonas	NA
 >ASV_6770	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
@@ -6780,7 +6780,7 @@
 >ASV_6779	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6780	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_6781	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Arctic97B-4 marine group	NA	NA	NA
->ASV_6782	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
+>ASV_6782	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_6783	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_6784	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6785	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Marinifilum	NA
@@ -6798,7 +6798,7 @@
 >ASV_6797	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_6798	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_6799	Bacteria	Aquificota	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter	NA
->ASV_6800	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
+>ASV_6800	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Planctomicrobium	NA
 >ASV_6801	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_6802	Bacteria	Chloroflexi	TK17	NA	NA	NA	NA
 >ASV_6803	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	NA	NA
@@ -6810,7 +6810,7 @@
 >ASV_6809	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	NA	NA
 >ASV_6810	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_6811	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
->ASV_6812	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Phaeodactylibacter	NA
+>ASV_6812	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_6813	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6814	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	NA
 >ASV_6815	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
@@ -6823,7 +6823,7 @@
 >ASV_6822	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Oleiagrimonas	NA
 >ASV_6823	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	NA	NA	NA	NA
 >ASV_6824	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_6825	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
+>ASV_6825	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
 >ASV_6826	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_6827	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
 >ASV_6828	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
@@ -6838,14 +6838,14 @@
 >ASV_6837	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Microcystaceae	NA	NA
 >ASV_6838	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Tenacibaculum	NA
 >ASV_6839	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Microcystaceae	NA	NA
->ASV_6840	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	NA	NA
+>ASV_6840	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6841	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_6842	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Tepidimonas	NA
 >ASV_6843	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
 >ASV_6844	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Euzebyella	saccharophila
 >ASV_6845	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Puniceicoccus	NA
 >ASV_6846	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_6847	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
+>ASV_6847	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_6848	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	NA
 >ASV_6849	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NA
 >ASV_6850	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -6869,7 +6869,7 @@
 >ASV_6868	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
 >ASV_6869	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_6870	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
->ASV_6871	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
+>ASV_6871	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	NA	NA
 >ASV_6872	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
 >ASV_6873	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_6874	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
@@ -6984,7 +6984,7 @@
 >ASV_6983	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	NA	NA	NA
 >ASV_6984	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_6985	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
->ASV_6986	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_6986	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_6987	Bacteria	Proteobacteria	Gammaproteobacteria	EC3	NA	NA	NA
 >ASV_6988	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
 >ASV_6989	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
@@ -7007,7 +7007,7 @@
 >ASV_7006	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_7007	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Edaphobaculum	NA
 >ASV_7008	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
->ASV_7009	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+>ASV_7009	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7010	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Endozoicomonas	NA
 >ASV_7011	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_7012	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	NA	NA	NA
@@ -7049,7 +7049,7 @@
 >ASV_7048	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_7049	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_7050	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
->ASV_7051	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_7051	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA
 >ASV_7052	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Phycisphaera	NA
 >ASV_7053	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_7054	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
@@ -7058,7 +7058,7 @@
 >ASV_7057	Bacteria	Proteobacteria	Gammaproteobacteria	BD7-8	NA	NA	NA
 >ASV_7058	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
 >ASV_7059	Bacteria	Verrucomicrobiota	Lentisphaeria	SS1-B-02-17	NA	NA	NA
->ASV_7060	Bacteria	Verrucomicrobiota	Lentisphaeria	NA	NA	NA	NA
+>ASV_7060	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7061	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	Sandaracinus	NA
 >ASV_7062	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Desertifilaceae	Hormoscilla SI04-45	NA
 >ASV_7063	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -7088,8 +7088,8 @@
 >ASV_7087	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	NA	NA
 >ASV_7088	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	NA	NA
 >ASV_7089	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_7090	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_7091	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_7090	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
+>ASV_7091	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
 >ASV_7092	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_7093	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_7094	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
@@ -7169,7 +7169,7 @@
 >ASV_7168	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	Ilumatobacter	NA
 >ASV_7169	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_7170	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
->ASV_7171	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	NA	NA	NA
+>ASV_7171	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_7172	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
 >ASV_7173	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
 >ASV_7174	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
@@ -7192,7 +7192,7 @@
 >ASV_7191	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Sedimenticolaceae	NA	NA
 >ASV_7192	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_7193	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Ochrovirga	NA
->ASV_7194	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+>ASV_7194	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7195	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	NA	NA	NA
 >ASV_7196	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_7197	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Terasakiellaceae	Terasakiella	NA
@@ -7207,7 +7207,7 @@
 >ASV_7206	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
 >ASV_7207	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Gven-F17	NA	NA
 >ASV_7208	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
->ASV_7209	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_7209	Bacteria	Proteobacteria	Gammaproteobacteria	HOC36	NA	NA	NA
 >ASV_7210	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	Sandaracinus	NA
 >ASV_7211	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_7212	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	NA
@@ -7225,18 +7225,18 @@
 >ASV_7224	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Alteromonadaceae	NA	NA
 >ASV_7225	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_7226	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_7227	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
+>ASV_7227	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_7228	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
 >ASV_7229	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_7230	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_7231	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	NA
 >ASV_7232	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
->ASV_7233	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_7233	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	NA
 >ASV_7234	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
 >ASV_7235	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_7236	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_7237	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Haloferula	NA
->ASV_7238	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	NA	NA
+>ASV_7238	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
 >ASV_7239	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
 >ASV_7240	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Gimesiaceae	Gimesia	NA
 >ASV_7241	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
@@ -7254,7 +7254,7 @@
 >ASV_7253	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7254	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_7255	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_7256	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas	NA
+>ASV_7256	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	NA	NA	NA
 >ASV_7257	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_7258	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Agarilytica	NA
 >ASV_7259	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	Schleiferia	NA
@@ -7265,7 +7265,7 @@
 >ASV_7264	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	NA
 >ASV_7265	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Moritellaceae	NA	NA
 >ASV_7266	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_7267	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	[Eubacterium] tenue group	NA
+>ASV_7267	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	NA	NA
 >ASV_7268	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_7269	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	NA
 >ASV_7270	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
@@ -7295,7 +7295,7 @@
 >ASV_7294	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_7295	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Chlamydiaceae	NA	NA
 >ASV_7296	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
->ASV_7297	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_7297	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7298	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_7299	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	NA	NA	NA
 >ASV_7300	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
@@ -7327,7 +7327,7 @@
 >ASV_7326	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_7327	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_7328	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
->ASV_7329	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_7329	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
 >ASV_7330	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_7331	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
 >ASV_7332	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	NA
@@ -7345,7 +7345,7 @@
 >ASV_7344	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubribacterium	NA
 >ASV_7345	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
 >ASV_7346	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_7347	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Simkaniaceae	Simkania	NA
+>ASV_7347	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Simkaniaceae	NA	NA
 >ASV_7348	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7349	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	PRD18C08	NA	NA
 >ASV_7350	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
@@ -7355,11 +7355,11 @@
 >ASV_7354	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	SCGC AAA011-D5	NA	NA
 >ASV_7355	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	NA
 >ASV_7356	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Synechococcales Incertae Sedis	Schizothrix LEGE 07164	NA
->ASV_7357	Bacteria	Chloroflexi	Dehalococcoidia	NA	NA	NA	NA
->ASV_7358	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_7357	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
+>ASV_7358	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Hahellaceae	Hahella	NA
 >ASV_7359	Bacteria	Proteobacteria	Alphaproteobacteria	Defluviicoccales	Defluviicoccaceae	Defluviicoccus	NA
 >ASV_7360	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Portibacter	NA
->ASV_7361	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
+>ASV_7361	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_7362	Bacteria	Poribacteria	NA	NA	NA	NA	NA
 >ASV_7363	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7364	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -7402,7 +7402,7 @@
 >ASV_7401	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_7402	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_7403	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
->ASV_7404	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_7404	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_7405	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7406	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7407	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
@@ -7448,13 +7448,13 @@
 >ASV_7447	Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	NA	NA	NA
 >ASV_7448	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Colwelliaceae	Thalassotalea	NA
 >ASV_7449	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
->ASV_7450	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_7451	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_7450	Bacteria	Myxococcota	NA	NA	NA	NA	NA
+>ASV_7451	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7452	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	NA	NA	NA
 >ASV_7453	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Holosporaceae	NA	NA
 >ASV_7454	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7455	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_7456	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
+>ASV_7456	Bacteria	Verrucomicrobiota	Verrucomicrobiae	NA	NA	NA	NA
 >ASV_7457	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Candidatus Bacilloplasma	NA
 >ASV_7458	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	NA
 >ASV_7459	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	NA	NA
@@ -7473,7 +7473,7 @@
 >ASV_7472	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	NA	NA
 >ASV_7473	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7474	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	NA
->ASV_7475	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_7475	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7476	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Chlamydiaceae	NA	NA
 >ASV_7477	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
 >ASV_7478	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
@@ -7485,8 +7485,8 @@
 >ASV_7484	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	NA	NA
 >ASV_7485	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	NA
 >ASV_7486	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
->ASV_7487	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
->ASV_7488	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_7487	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
+>ASV_7488	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
 >ASV_7489	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
 >ASV_7490	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_7491	Bacteria	Proteobacteria	Gammaproteobacteria	EPR3968-O8a-Bc78	NA	NA	NA
@@ -7503,7 +7503,7 @@
 >ASV_7502	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_7503	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_7504	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_7505	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
+>ASV_7505	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
 >ASV_7506	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Fuerstia	NA
 >ASV_7507	Bacteria	Bacteroidota	Rhodothermia	Rhodothermales	Rhodothermaceae	NA	NA
 >ASV_7508	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -7521,7 +7521,7 @@
 >ASV_7520	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	NA	NA
 >ASV_7521	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	NA
 >ASV_7522	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Tepidibacter	mesophilus
->ASV_7523	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
+>ASV_7523	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_7524	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_7525	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_7526	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
@@ -7552,7 +7552,7 @@
 >ASV_7551	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_7552	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Phormidiaceae	Trichodesmium IMS101	NA
 >ASV_7553	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
->ASV_7554	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_7554	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
 >ASV_7555	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Coraliomargarita	NA
 >ASV_7556	Bacteria	Planctomycetota	028H05-P-BN-P5	NA	NA	NA	NA
 >ASV_7557	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	NA	NA
@@ -7575,7 +7575,7 @@
 >ASV_7574	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_7575	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_7576	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Arctic97B-4 marine group	NA	NA	NA
->ASV_7577	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
+>ASV_7577	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Ascidiimonas	NA
 >ASV_7578	Bacteria	Proteobacteria	Gammaproteobacteria	JTB23	NA	NA	NA
 >ASV_7579	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Phormidesmiaceae	Phormidesmis ANT.LACV5.1	NA
 >ASV_7580	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
@@ -7587,7 +7587,7 @@
 >ASV_7586	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas	NA
 >ASV_7587	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7588	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
->ASV_7589	Bacteria	Proteobacteria	Gammaproteobacteria	HOC36	NA	NA	NA
+>ASV_7589	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7590	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	Candidatus Amoebophilus	NA
 >ASV_7591	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	MWH-UniP1 aquatic group	NA	NA
 >ASV_7592	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Midichloriaceae	Candidatus Midichloria	NA
@@ -7602,7 +7602,7 @@
 >ASV_7601	Bacteria	Chloroflexi	Anaerolineae	Ardenticatenales	NA	NA	NA
 >ASV_7602	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_7603	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
->ASV_7604	Bacteria	Proteobacteria	Gammaproteobacteria	Beggiatoales	Beggiatoaceae	Candidatus Thiophysa	NA
+>ASV_7604	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7605	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	NA
 >ASV_7606	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
 >ASV_7607	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	B2706-C7	NA
@@ -7626,7 +7626,7 @@
 >ASV_7625	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	NA
 >ASV_7626	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_7627	Bacteria	Myxococcota	Polyangia	UASB-TL25	NA	NA	NA
->ASV_7628	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_7628	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Fabibacter	NA
 >ASV_7629	Bacteria	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Tistlia	NA
 >ASV_7630	Bacteria	Chloroflexi	Anaerolineae	Ardenticatenales	NA	NA	NA
 >ASV_7631	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
@@ -7636,7 +7636,7 @@
 >ASV_7635	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga	NA
 >ASV_7636	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_7637	Bacteria	Myxococcota	Polyangia	Polyangiales	Sandaracinaceae	NA	NA
->ASV_7638	Bacteria	Proteobacteria	Alphaproteobacteria	Tistrellales	Geminicoccaceae	NA	NA
+>ASV_7638	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7639	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_7640	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_7641	Archaea	Crenarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	NA
@@ -7664,7 +7664,7 @@
 >ASV_7663	Bacteria	Gemmatimonadota	BD2-11 terrestrial group	NA	NA	NA	NA
 >ASV_7664	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	SAR86 clade	NA	NA
 >ASV_7665	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Portibacter	NA
->ASV_7666	Bacteria	Chloroflexi	Anaerolineae	NA	NA	NA	NA
+>ASV_7666	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
 >ASV_7667	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_7668	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
 >ASV_7669	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -7740,7 +7740,7 @@
 >ASV_7739	Bacteria	Dependentiae	Babeliae	Babeliales	NA	NA	NA
 >ASV_7740	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_7741	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
->ASV_7742	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Marinagarivorans	NA
+>ASV_7742	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	NA	NA
 >ASV_7743	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
 >ASV_7744	Bacteria	Cyanobacteria	NA	NA	NA	NA	NA
 >ASV_7745	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
@@ -7762,9 +7762,9 @@
 >ASV_7761	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	NA
 >ASV_7762	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_7763	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
->ASV_7764	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
+>ASV_7764	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	NA	NA
 >ASV_7765	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_7766	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_7766	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7767	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Arctic97B-4 marine group	NA	NA	NA
 >ASV_7768	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_7769	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Persicirhabdus	NA
@@ -7798,7 +7798,7 @@
 >ASV_7797	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	NA
 >ASV_7798	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	NA
 >ASV_7799	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
->ASV_7800	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
+>ASV_7800	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_7801	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Porticoccaceae	C1-B045	NA
 >ASV_7802	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7803	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
@@ -7808,7 +7808,7 @@
 >ASV_7807	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	NA
 >ASV_7808	Bacteria	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	Subgroup 10	NA
 >ASV_7809	Bacteria	PAUC34f	NA	NA	NA	NA	NA
->ASV_7810	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanicella	NA
+>ASV_7810	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
 >ASV_7811	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
 >ASV_7812	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_7813	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
@@ -7842,7 +7842,7 @@
 >ASV_7841	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	lwoffii
 >ASV_7842	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_7843	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	BD1-7 clade	NA
->ASV_7844	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	NA
+>ASV_7844	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	NA	NA	NA
 >ASV_7845	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7846	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_7847	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
@@ -7852,11 +7852,11 @@
 >ASV_7851	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	Nodosilineaceae	MBIC10086	NA
 >ASV_7852	Bacteria	Marinimicrobia (SAR406 clade)	NA	NA	NA	NA	NA
 >ASV_7853	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	NA
->ASV_7854	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Colwelliaceae	Thalassotalea	NA
+>ASV_7854	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Colwelliaceae	NA	NA
 >ASV_7855	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_7856	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Ekhidna	NA
 >ASV_7857	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
->ASV_7858	Bacteria	Planctomycetota	Phycisphaerae	NA	NA	NA	NA
+>ASV_7858	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_7859	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
 >ASV_7860	Bacteria	Proteobacteria	Gammaproteobacteria	F9P41300-M23	NA	NA	NA
 >ASV_7861	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Aureispira	NA
@@ -7930,8 +7930,8 @@
 >ASV_7929	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_7930	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
 >ASV_7931	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_7932	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_7933	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	NA	NA	NA
+>ASV_7932	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_7933	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7934	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_7935	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_7936	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
@@ -8027,7 +8027,7 @@
 >ASV_8026	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	NA	NA	NA
 >ASV_8027	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_8028	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Holosporaceae	NA	NA
->ASV_8029	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
+>ASV_8029	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Phaeodactylibacter	NA
 >ASV_8030	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_8031	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_8032	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
@@ -8041,7 +8041,7 @@
 >ASV_8040	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavimarina	NA
 >ASV_8041	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_8042	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
->ASV_8043	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_8043	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_8044	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
 >ASV_8045	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	NA	NA	NA
 >ASV_8046	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
@@ -8065,7 +8065,7 @@
 >ASV_8064	Bacteria	Verrucomicrobiota	Lentisphaeria	P.palmC41	NA	NA	NA
 >ASV_8065	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_8066	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	Reichenbachiella	NA
->ASV_8067	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	NA
+>ASV_8067	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8068	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8069	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	NA	NA
 >ASV_8070	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	B2706-C7	NA
@@ -8074,7 +8074,7 @@
 >ASV_8073	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	NA	NA
 >ASV_8074	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	NA	NA
 >ASV_8075	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
->ASV_8076	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
+>ASV_8076	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_8077	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_8078	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8079	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
@@ -8082,18 +8082,18 @@
 >ASV_8081	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	SCGC AAA286-E23	NA	NA
 >ASV_8082	Bacteria	Bacteroidota	Kapabacteria	Kapabacteriales	NA	NA	NA
 >ASV_8083	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
->ASV_8084	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Candidatus Xenolissoclinum	NA
+>ASV_8084	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_8085	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Candidatus Megaira	NA
 >ASV_8086	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Aureispira	NA
 >ASV_8087	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
->ASV_8088	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_8088	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_8089	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_8090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	Dasania	NA
 >ASV_8091	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8092	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_8093	Bacteria	Patescibacteria	Gracilibacteria	NA	NA	NA	NA
 >ASV_8094	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Kordia	NA
->ASV_8095	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	NA	NA
+>ASV_8095	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
 >ASV_8096	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
 >ASV_8097	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8098	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
@@ -8173,7 +8173,7 @@
 >ASV_8172	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8173	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_8174	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
->ASV_8175	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
+>ASV_8175	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8176	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_8177	Bacteria	Desulfobacterota	Desulfuromonadia	Bradymonadales	NA	NA	NA
 >ASV_8178	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	NA
@@ -8186,8 +8186,8 @@
 >ASV_8185	Bacteria	Bacteroidota	Kapabacteria	Kapabacteriales	NA	NA	NA
 >ASV_8186	Bacteria	Calditrichota	Calditrichia	Calditrichales	Calditrichaceae	Calorithrix	NA
 >ASV_8187	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
->ASV_8188	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8189	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_8188	Bacteria	Myxococcota	NA	NA	NA	NA	NA
+>ASV_8189	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	NA	NA
 >ASV_8190	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
 >ASV_8191	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	NA
 >ASV_8192	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -8223,7 +8223,7 @@
 >ASV_8222	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	NA	NA
 >ASV_8223	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	AB1	NA	NA
 >ASV_8224	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Persicirhabdus	NA
->ASV_8225	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_8225	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_8226	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_8227	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	NA
 >ASV_8228	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	NA	NA	NA
@@ -8235,7 +8235,7 @@
 >ASV_8234	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	NA
 >ASV_8235	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8236	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8237	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
+>ASV_8237	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8238	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_8239	Bacteria	Verrucomicrobiota	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	NA
 >ASV_8240	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
@@ -8265,7 +8265,7 @@
 >ASV_8264	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8265	Bacteria	Desulfobacterota	Desulfobulbia	Desulfobulbales	Desulfocapsaceae	[Desulfobacterium] catecholicum group	NA
 >ASV_8266	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8267	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_8267	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_8268	Bacteria	Deinococcota	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	NA
 >ASV_8269	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8270	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Coraliomargarita	NA
@@ -8310,7 +8310,7 @@
 >ASV_8309	Bacteria	Modulibacteria	Moduliflexia	Moduliflexales	Moduliflexaceae	NA	NA
 >ASV_8310	Bacteria	Nitrospirota	Thermodesulfovibrionia	NA	NA	NA	NA
 >ASV_8311	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
->ASV_8312	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
+>ASV_8312	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_8313	Archaea	Thermoplasmatota	Thermoplasmata	Marine Group III	NA	NA	NA
 >ASV_8314	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_8315	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	NA	NA
@@ -8327,7 +8327,7 @@
 >ASV_8326	Bacteria	Proteobacteria	Gammaproteobacteria	Piscirickettsiales	Piscirickettsiaceae	Candidatus Endoecteinascidia	NA
 >ASV_8327	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	Candidatus Puniceispirillum	NA
 >ASV_8328	Bacteria	Desulfobacterota	Desulfuromonadia	Bradymonadales	NA	NA	NA
->ASV_8329	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_8329	Bacteria	Proteobacteria	Gammaproteobacteria	EC3	NA	NA	NA
 >ASV_8330	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	NA
 >ASV_8331	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
 >ASV_8332	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
@@ -8375,7 +8375,7 @@
 >ASV_8374	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_8375	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_8376	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopostipes	NA
->ASV_8377	Bacteria	Cyanobacteria	Cyanobacteriia	Phormidesmiales	NA	NA	NA
+>ASV_8377	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
 >ASV_8378	Bacteria	Deinococcota	Deinococci	Deinococcales	Trueperaceae	Truepera	NA
 >ASV_8379	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8380	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -8390,7 +8390,7 @@
 >ASV_8389	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
 >ASV_8390	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
 >ASV_8391	Bacteria	MBNT15	NA	NA	NA	NA	NA
->ASV_8392	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
+>ASV_8392	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zeaxanthinibacter	NA
 >ASV_8393	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_8394	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
 >ASV_8395	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	Pseudobacteriovorax	NA
@@ -8482,7 +8482,7 @@
 >ASV_8481	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_8482	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
 >ASV_8483	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
->ASV_8484	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
+>ASV_8484	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	Schleiferia	NA
 >ASV_8485	Bacteria	Proteobacteria	Gammaproteobacteria	pItb-vmat-80	NA	NA	NA
 >ASV_8486	Bacteria	Acidobacteriota	Subgroup 22	NA	NA	NA	NA
 >ASV_8487	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
@@ -8524,7 +8524,7 @@
 >ASV_8523	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	NA
 >ASV_8524	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_8525	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_8526	Bacteria	Firmicutes	Bacilli	Acholeplasmatales	Acholeplasmataceae	DMI	NA
+>ASV_8526	Bacteria	Firmicutes	Bacilli	Acholeplasmatales	Acholeplasmataceae	NA	NA
 >ASV_8527	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_8528	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_8529	Bacteria	Patescibacteria	Parcubacteria	Candidatus Spechtbacteria	NA	NA	NA
@@ -8536,18 +8536,18 @@
 >ASV_8535	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_8536	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	NA
 >ASV_8537	Bacteria	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	NA
->ASV_8538	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
+>ASV_8538	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8539	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_8540	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	NA	NA	NA
 >ASV_8541	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Saccharospirillaceae	Thalassolituus	NA
 >ASV_8542	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_8543	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
->ASV_8544	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_8545	Bacteria	Chloroflexi	NA	NA	NA	NA	NA
+>ASV_8544	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_8545	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8546	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
 >ASV_8547	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_8548	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Aureispira	NA
->ASV_8549	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_8549	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_8550	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA
 >ASV_8551	Bacteria	Myxococcota	bacteriap25	NA	NA	NA	NA
 >ASV_8552	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
@@ -8561,7 +8561,7 @@
 >ASV_8560	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	NA
 >ASV_8561	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_8562	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
->ASV_8563	Bacteria	Actinobacteriota	Acidimicrobiia	NA	NA	NA	NA
+>ASV_8563	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	NA	NA	NA
 >ASV_8564	Bacteria	Chloroflexi	Anaerolineae	Ardenticatenales	Ardenticatenaceae	NA	NA
 >ASV_8565	Bacteria	Chloroflexi	KD4-96	NA	NA	NA	NA
 >ASV_8566	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
@@ -8591,12 +8591,12 @@
 >ASV_8590	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Rubritalea	NA
 >ASV_8591	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
 >ASV_8592	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
->ASV_8593	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_8593	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_8594	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
 >ASV_8595	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	Perexilibacter	NA
 >ASV_8596	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	NA	NA
 >ASV_8597	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
->ASV_8598	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
+>ASV_8598	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
 >ASV_8599	Bacteria	Patescibacteria	Parcubacteria	NA	NA	NA	NA
 >ASV_8600	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	GTL1	NA
 >ASV_8601	Bacteria	NA	NA	NA	NA	NA	NA
@@ -8626,11 +8626,11 @@
 >ASV_8625	Bacteria	Patescibacteria	Gracilibacteria	NA	NA	NA	NA
 >ASV_8626	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	NA	NA
 >ASV_8627	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Microcystaceae	NA	NA
->ASV_8628	Bacteria	Myxococcota	NA	NA	NA	NA	NA
+>ASV_8628	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_8629	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
 >ASV_8630	Bacteria	Patescibacteria	Gracilibacteria	NA	NA	NA	NA
 >ASV_8631	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8632	Bacteria	Firmicutes	Clostridia	NA	NA	NA	NA
+>ASV_8632	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8633	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8634	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	KI89A clade	NA	NA
 >ASV_8635	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae	NA	NA
@@ -8649,8 +8649,8 @@
 >ASV_8648	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_8649	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	Sunxiuqinia	NA
 >ASV_8650	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
->ASV_8651	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
->ASV_8652	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA
+>ASV_8651	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
+>ASV_8652	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8653	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8654	Bacteria	WOR-1	NA	NA	NA	NA	NA
 >ASV_8655	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sebaldella	NA
@@ -8669,7 +8669,7 @@
 >ASV_8668	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pirellula	NA
 >ASV_8669	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8670	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
->ASV_8671	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
+>ASV_8671	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8672	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8673	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
 >ASV_8674	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
@@ -8715,12 +8715,12 @@
 >ASV_8714	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_8715	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_8716	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
->ASV_8717	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
+>ASV_8717	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Halobacteriovorax	NA
 >ASV_8718	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_8719	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	NA	NA	NA
 >ASV_8720	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	NA
 >ASV_8721	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Psychroflexus	NA
->ASV_8722	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	NA	NA
+>ASV_8722	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	Flexithrix	NA
 >ASV_8723	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_8724	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_8725	Bacteria	NA	NA	NA	NA	NA	NA
@@ -8729,22 +8729,22 @@
 >ASV_8728	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8729	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_8730	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_8731	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	NA	NA
+>ASV_8731	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	NA	NA	NA
 >ASV_8732	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	NA	NA	NA
 >ASV_8733	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8734	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	Eionea	NA
 >ASV_8735	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	NA	NA	NA
 >ASV_8736	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8737	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_8737	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	NA
 >ASV_8738	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
 >ASV_8739	Bacteria	Verrucomicrobiota	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	NA
 >ASV_8740	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8741	Bacteria	Firmicutes	Clostridia	NA	NA	NA	NA
 >ASV_8742	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
->ASV_8743	Bacteria	Patescibacteria	NA	NA	NA	NA	NA
+>ASV_8743	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8744	Bacteria	Planctomycetota	BD7-11	NA	NA	NA	NA
 >ASV_8745	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
->ASV_8746	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_8746	Bacteria	Latescibacterota	NA	NA	NA	NA	NA
 >ASV_8747	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	NA	NA
 >ASV_8748	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Lewinella	NA
 >ASV_8749	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	EC94	NA	NA
@@ -8794,7 +8794,7 @@
 >ASV_8793	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_8794	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
 >ASV_8795	Bacteria	Verrucomicrobiota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	NA	NA
->ASV_8796	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_8796	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8797	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_8798	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_8799	Bacteria	Chloroflexi	Anaerolineae	Ardenticatenales	NA	NA	NA
@@ -8809,7 +8809,7 @@
 >ASV_8808	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Nostocaceae	Rivularia PCC-7116	NA
 >ASV_8809	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	NA
 >ASV_8810	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	NA	NA
->ASV_8811	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
+>ASV_8811	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
 >ASV_8812	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_8813	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	NA	NA	NA
 >ASV_8814	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Fuerstia	NA
@@ -8819,7 +8819,7 @@
 >ASV_8818	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8819	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	NA	NA
 >ASV_8820	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
->ASV_8821	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_8821	Bacteria	Firmicutes	NA	NA	NA	NA	NA
 >ASV_8822	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
 >ASV_8823	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_8824	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
@@ -8841,9 +8841,9 @@
 >ASV_8840	Bacteria	Cyanobacteria	Sericytochromatia	NA	NA	NA	NA
 >ASV_8841	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_8842	Bacteria	NA	NA	NA	NA	NA	NA
->ASV_8843	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
+>ASV_8843	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
 >ASV_8844	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Aureispira	NA
->ASV_8845	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Portibacter	NA
+>ASV_8845	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_8846	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	Candidatus Anadelfobacter	NA
 >ASV_8847	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
 >ASV_8848	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	Melioribacteraceae	IheB3-7	NA
@@ -8919,7 +8919,7 @@
 >ASV_8918	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	NA	NA	NA
 >ASV_8919	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Amoebophilaceae	NA	NA
 >ASV_8920	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Endozoicomonadaceae	Kistimonas	NA
->ASV_8921	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
+>ASV_8921	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_8922	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
 >ASV_8923	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_8924	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
@@ -8929,7 +8929,7 @@
 >ASV_8928	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_8929	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
 >ASV_8930	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	NA	NA
->ASV_8931	Bacteria	Margulisbacteria	NA	NA	NA	NA	NA
+>ASV_8931	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_8932	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_8933	Bacteria	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae	Turneriella	NA
 >ASV_8934	Archaea	Nanoarchaeota	Nanoarchaeia	Woesearchaeales	NA	NA	NA
@@ -8990,7 +8990,7 @@
 >ASV_8989	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	EF100-94H03	NA	NA
 >ASV_8990	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_8991	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	NA	NA
->ASV_8992	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_8992	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
 >ASV_8993	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_8994	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_8995	Archaea	Crenarchaeota	Nitrososphaeria	Caldiarchaeales	Caldiarchaeaceae	Candidatus Caldiarchaeum	NA
@@ -9001,7 +9001,7 @@
 >ASV_9000	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	NS11-12 marine group	NA	NA
 >ASV_9001	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	NA	NA
 >ASV_9002	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
->ASV_9003	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
+>ASV_9003	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9004	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
 >ASV_9005	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
 >ASV_9006	Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	NA	NA
@@ -9022,7 +9022,7 @@
 >ASV_9021	Bacteria	Planctomycetota	NA	NA	NA	NA	NA
 >ASV_9022	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
 >ASV_9023	Bacteria	Actinobacteriota	Acidimicrobiia	Actinomarinales	NA	NA	NA
->ASV_9024	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Candidatus Bacilloplasma	NA
+>ASV_9024	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	NA	NA
 >ASV_9025	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_9026	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_9027	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -9077,13 +9077,13 @@
 >ASV_9076	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_9077	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Edaphobaculum	NA
 >ASV_9078	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
->ASV_9079	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
->ASV_9080	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+>ASV_9079	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
+>ASV_9080	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9081	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_9082	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9083	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Cerasicoccus	NA
 >ASV_9084	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta 2	NA
->ASV_9085	Bacteria	Cyanobacteria	Cyanobacteriia	NA	NA	NA	NA
+>ASV_9085	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Prochlorotrichaceae	Prochlorothrix PCC-9006	NA
 >ASV_9086	Bacteria	Verrucomicrobiota	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	NA
 >ASV_9087	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	P3OB-42	NA
 >ASV_9088	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
@@ -9091,7 +9091,7 @@
 >ASV_9090	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_9091	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_9092	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
->ASV_9093	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
+>ASV_9093	Bacteria	Desulfobacterota	Desulfuromonadia	Bradymonadales	NA	NA	NA
 >ASV_9094	Bacteria	Calditrichota	Calditrichia	Calditrichales	Calditrichaceae	Calorithrix	NA
 >ASV_9095	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_9096	Bacteria	Patescibacteria	Parcubacteria	Candidatus Campbellbacteria	NA	NA	NA
@@ -9116,7 +9116,7 @@
 >ASV_9115	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	NA	NA
 >ASV_9116	Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	NA	NA
 >ASV_9117	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Blastopirellula	NA
->ASV_9118	Bacteria	Verrucomicrobiota	Lentisphaeria	NA	NA	NA	NA
+>ASV_9118	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
 >ASV_9119	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_9120	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	DEV007	NA	NA
 >ASV_9121	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
@@ -9161,7 +9161,7 @@
 >ASV_9160	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9161	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	NA	NA
 >ASV_9162	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
->ASV_9163	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	NA	NA
+>ASV_9163	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Fokiniaceae	MD3-55	NA
 >ASV_9164	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	NA
 >ASV_9165	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_9166	Bacteria	NB1-j	NA	NA	NA	NA	NA
@@ -9184,7 +9184,7 @@
 >ASV_9183	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	Fuerstia	NA
 >ASV_9184	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_9185	Bacteria	Verrucomicrobiota	Omnitrophia	Omnitrophales	Omnitrophaceae	Candidatus Omnitrophus	NA
->ASV_9186	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_9186	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_9187	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	NA	NA
 >ASV_9188	Bacteria	Planctomycetota	Pla3 lineage	NA	NA	NA	NA
 >ASV_9189	Bacteria	Bacteroidota	Kapabacteria	Kapabacteriales	NA	NA	NA
@@ -9206,7 +9206,7 @@
 >ASV_9205	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	NA	NA
 >ASV_9206	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9207	Bacteria	Acetothermia	Acetothermiia	NA	NA	NA	NA
->ASV_9208	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	NA	NA
+>ASV_9208	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_9209	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Rhodopirellula	NA
 >ASV_9210	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	NA	NA
 >ASV_9211	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	NA	NA
@@ -9247,7 +9247,7 @@
 >ASV_9246	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	NA	NA
 >ASV_9247	Bacteria	Bdellovibrionota	Oligoflexia	Silvanigrellales	Silvanigrellaceae	NA	NA
 >ASV_9248	Bacteria	Planctomycetota	vadinHA49	NA	NA	NA	NA
->ASV_9249	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
+>ASV_9249	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NA	NA	NA
 >ASV_9250	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9251	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9252	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
@@ -9272,9 +9272,9 @@
 >ASV_9271	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9272	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Bythopirellula	NA
 >ASV_9273	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
->ASV_9274	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Chlamydiaceae	NA	NA
+>ASV_9274	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	NA	NA	NA
 >ASV_9275	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Flammeovirgaceae	Sediminitomix	NA
->ASV_9276	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
+>ASV_9276	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	NA	NA
 >ASV_9277	Bacteria	Firmicutes	Bacilli	Entomoplasmatales	Entomoplasmatales Incertae Sedis	Candidatus Hepatoplasma	NA
 >ASV_9278	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	NA
 >ASV_9279	Bacteria	Bdellovibrionota	Oligoflexia	Oligoflexales	Oligoflexaceae	NA	NA
@@ -9283,7 +9283,7 @@
 >ASV_9282	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
 >ASV_9283	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
 >ASV_9284	Bacteria	Patescibacteria	Gracilibacteria	Absconditabacteriales (SR1)	NA	NA	NA
->ASV_9285	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+>ASV_9285	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9286	Bacteria	Cyanobacteria	Cyanobacteriia	Cyanobacteriales	Nostocaceae	Mastigocoleus BC008	testarum
 >ASV_9287	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Phycisphaera	NA
 >ASV_9288	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	NA	NA
@@ -9343,10 +9343,10 @@
 >ASV_9342	Bacteria	SAR324 clade(Marine group B)	NA	NA	NA	NA	NA
 >ASV_9343	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_9344	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
->ASV_9345	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+>ASV_9345	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
 >ASV_9346	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	NA	NA
 >ASV_9347	Bacteria	Actinobacteriota	Coriobacteriia	OPB41	NA	NA	NA
->ASV_9348	Bacteria	Desulfobacterota	NA	NA	NA	NA	NA
+>ASV_9348	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9349	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9350	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_9351	Bacteria	Patescibacteria	Gracilibacteria	NA	NA	NA	NA
@@ -9387,8 +9387,8 @@
 >ASV_9386	Bacteria	Cyanobacteria	Vampirivibrionia	Caenarcaniphilales	NA	NA	NA
 >ASV_9387	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	NA
 >ASV_9388	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
->ASV_9389	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
->ASV_9390	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_9389	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+>ASV_9390	Bacteria	Verrucomicrobiota	NA	NA	NA	NA	NA
 >ASV_9391	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Algisphaera	NA
 >ASV_9392	Bacteria	Latescibacterota	NA	NA	NA	NA	NA
 >ASV_9393	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
@@ -9400,13 +9400,13 @@
 >ASV_9399	Bacteria	Spirochaetota	V2072-189E03	NA	NA	NA	NA
 >ASV_9400	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	NA	NA
 >ASV_9401	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	NA	NA	NA
->ASV_9402	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
+>ASV_9402	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	NA	NA	NA
 >ASV_9403	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	NA
 >ASV_9404	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NA	NA
 >ASV_9405	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9406	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	NA
 >ASV_9407	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
->ASV_9408	Bacteria	Sumerlaeota	Sumerlaeia	Sumerlaeales	Sumerlaeaceae	Sumerlaea	NA
+>ASV_9408	Bacteria	NA	NA	NA	NA	NA	NA
 >ASV_9409	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Peredibacter	NA
 >ASV_9410	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	NA
 >ASV_9411	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	NA	NA
@@ -9435,7 +9435,7 @@
 >ASV_9434	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	NA	NA	NA
 >ASV_9435	Bacteria	Verrucomicrobiota	Kiritimatiellae	WCHB1-41	NA	NA	NA
 >ASV_9436	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	NA	NA	NA
->ASV_9437	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurimonadaceae	NA	NA
+>ASV_9437	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	NA
 >ASV_9438	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Blattabacteriaceae	NA	NA
 >ASV_9439	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	NA
 >ASV_9440	Bacteria	NA	NA	NA	NA	NA	NA
@@ -9532,11 +9532,11 @@
 >ASV_9531	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_9532	Bacteria	Planctomycetota	Pla4 lineage	NA	NA	NA	NA
 >ASV_9533	Bacteria	Planctomycetota	Phycisphaerae	MSBL9	SM23-30	NA	NA
->ASV_9534	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	NA	NA	NA
+>ASV_9534	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_9535	Bacteria	NB1-j	NA	NA	NA	NA	NA
 >ASV_9536	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	NA	NA	NA
 >ASV_9537	Bacteria	Patescibacteria	WWE3	NA	NA	NA	NA
->ASV_9538	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_9538	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
 >ASV_9539	Bacteria	Firmicutes	Thermoanaerobacteria	Caldicellulosiruptorales	Caldicellulosiraptoraceae	Caldicellulosiruptor	NA
 >ASV_9540	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Temperatibacteraceae	Temperatibacter	NA
 >ASV_9541	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	NA	NA
@@ -9569,7 +9569,7 @@
 >ASV_9568	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	NA	NA
 >ASV_9569	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_9570	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	NA	NA
->ASV_9571	Bacteria	Proteobacteria	Gammaproteobacteria	HglApr721	NA	NA	NA
+>ASV_9571	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
 >ASV_9572	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Arctic95B-14	NA	NA
 >ASV_9573	Bacteria	Fibrobacterota	Fibrobacteria	Fibrobacterales	TG3	NA	NA
 >ASV_9574	Bacteria	Planctomycetota	OM190	NA	NA	NA	NA
@@ -9612,7 +9612,7 @@
 >ASV_9611	Bacteria	Acidobacteriota	AT-s3-28	NA	NA	NA	NA
 >ASV_9612	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	NA	NA
 >ASV_9613	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Fretibacter	NA
->ASV_9614	Bacteria	NA	NA	NA	NA	NA	NA
+>ASV_9614	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
 >ASV_9615	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	NA
 >ASV_9616	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cyclobacteriaceae	NA	NA
 >ASV_9617	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	NA

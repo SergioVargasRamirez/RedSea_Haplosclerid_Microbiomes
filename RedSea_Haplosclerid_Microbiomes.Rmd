@@ -49,7 +49,7 @@ Samples "GW3524", "GW4232", "GW5899", and "GW6180" were discarded due to missing
 
 ```{r load reads}
 
-path <- "/mnt/scratch/Red_Sea_Microbiomes/Reads"
+path <- "/mnt/scratch/Red_Sea_Prokaryotic_Microbiomes/Reads/"
 #list.files(path)
 
 # Forward and reverse fastq filenames have format: SAMPLENAME_R1_001.fastq and SAMPLENAME_R2_001.fastq
@@ -122,9 +122,9 @@ rownames(track) <- sample.names
 
 ```{r Assign taxonomy}
 
-red_sea_taxa <- assignTaxonomy(seqtab.nochim, "/mnt/scratch/Red_Sea_Microbiomes/SilvaDB/v138/silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
+red_sea_taxa <- assignTaxonomy(seqtab.nochim,"/mnt/scratch/Red_Sea_Prokaryotic_Microbiomes/SilvaDB/v138/silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
 
-red_sea_taxa <- addSpecies(red_sea_taxa, "/mnt/scratch/Red_Sea_Microbiomes/SilvaDB/v138/silva_species_assignment_v138.1.fa.gz")
+red_sea_taxa <- addSpecies(red_sea_taxa, "/mnt/scratch/Red_Sea_Prokaryotic_Microbiomes/SilvaDB/v138/silva_species_assignment_v138.1.fa.gz")
 
 ```
 
@@ -163,29 +163,29 @@ write.table(red_sea_taxa.print, "./Outfiles/ASVs_taxonomy.tsv", sep = "\t", quot
 ```
 
 
-```{r Prep phyloseq object}
+<!-- ```{r Prep phyloseq object} -->
 
-theme_set(theme_bw())
-samples.out <- rownames(seqtab.nochim)
-#here load a df with sample to sample info for figure annotations, I guess
-#samdf <- data.frame(Subject=subject, Gender=gender, Day=day)
-#samdf$When <- "Early"
-#samdf$When[samdf$Day>100] <- "Late"
-#rownames(samdf) <- samples.out
-
-
-ps <- phyloseq(otu_table(seqtab.nochim, taxa_are_rows=FALSE), 
-               #sample_data(samdf),# add sample data here.
-               tax_table(red_sea_taxa))
-
-plot_richness(ps, measures=c("Shannon", "Simpson"))#, x="Day", , color="When")
+<!-- theme_set(theme_bw()) -->
+<!-- samples.out <- rownames(seqtab.nochim) -->
+<!-- #here load a df with sample to sample info for figure annotations, I guess -->
+<!-- #samdf <- data.frame(Subject=subject, Gender=gender, Day=day) -->
+<!-- #samdf$When <- "Early" -->
+<!-- #samdf$When[samdf$Day>100] <- "Late" -->
+<!-- #rownames(samdf) <- samples.out -->
 
 
-ps.prop <- transform_sample_counts(ps, function(otu) otu/sum(otu))
-ord.nmds.bray <- ordinate(ps.prop, method="NMDS", distance="bray", trymax=100)
+<!-- ps <- phyloseq(otu_table(seqtab.nochim, taxa_are_rows=FALSE),  -->
+<!--                #sample_data(samdf),# add sample data here. -->
+<!--                tax_table(red_sea_taxa)) -->
 
-plot_ordination(ps, ord.nmds.bray, title="Bray NMDS")
+<!-- plot_richness(ps, measures=c("Shannon", "Simpson"))#, x="Day", , color="When") -->
 
-```
+
+<!-- ps.prop <- transform_sample_counts(ps, function(otu) otu/sum(otu)) -->
+<!-- ord.nmds.bray <- ordinate(ps.prop, method="NMDS", distance="bray", trymax=100) -->
+
+<!-- plot_ordination(ps, ord.nmds.bray, title="Bray NMDS") -->
+
+<!-- ``` -->
 
 
